@@ -1,0 +1,23 @@
+{
+  "name": "SaveEat - Selamatkan Makanan",
+  "short_name": "SaveEat",
+  "description": "Platform penyelamat makanan berlebih dengan konsep Mystery Bag untuk mahasiswa.",
+  "start_url": "/login",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/apple-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
