@@ -505,7 +505,7 @@ export default function LandingPage() {
       </section>
 
       {/* ═══ CTA SECTION ══════════════════════════════════════ */}
-      <section className="py-24 bg-slate-50">
+      <section id="merchant" className="py-24 bg-slate-50">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <motion.div
             initial={{ opacity: 0, scale: 0.95 }}
@@ -551,7 +551,7 @@ export default function LandingPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-2">
-              <img src="/logo2.png" alt="SaveEat Logo" className="w-8 h-8 object-contain" />
+              <img src="/saveeatlogo.png" alt="SaveEat Logo" className="w-8 h-8 object-contain" />
               <span className="font-heading font-bold text-slate-900 text-lg">
                 Save<span className="text-emerald-500">Eat</span>
               </span>

@@ -49,10 +49,12 @@ export default function Navbar() {
     { label: "Cara Kerja", href: "/#how", id: "how" },
     { label: "SDG Impact", href: "/#impact", id: "impact" },
     { label: "Merchant", href: "/#merchant", id: "merchant" },
+    { label: "Maps", href: "/maps", id: "maps" },
   ];
 
   const getIsActive = (id: string, href: string) => {
     if (id === "marketplace") return pathname.startsWith("/marketplace");
+    if (id === "maps") return pathname.startsWith("/maps");
     if (pathname === "/") return activeSection === id;
     if (pathname !== "/" && href.startsWith("/#")) return false; 
     return false;
@@ -73,7 +75,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center gap-2 shrink-0">
-            <img src="/logo2.png" alt="SaveEat Logo" className="w-8 h-8 object-contain" />
+            <img src="/saveeatlogo.png" alt="SaveEat Logo" className="w-8 h-8 object-contain" />
             <span className="text-xl font-heading font-bold text-slate-900 hidden sm:block">
               Save<span className="text-emerald-500">Eat</span>
             </span>

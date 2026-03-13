@@ -110,7 +110,7 @@ function LoginContent() {
   // ── Render ────────────────────────────────────────
 
   return (
-    <div className="min-h-screen bg-slate-50 flex items-center justify-center relative overflow-hidden px-4 py-12">
+    <div className="min-h-screen bg-slate-50 flex items-center justify-center relative overflow-hidden px-4 py-12 pt-24">
       {/* Ambient gradients */}
       <div className="absolute inset-0 pointer-events-none">
         <div
@@ -137,9 +137,7 @@ function LoginContent() {
           className="text-center mb-10"
         >
           <Link href="/" className="inline-flex items-center gap-2 group mb-4">
-            <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-emerald-400 to-emerald-600 flex items-center justify-center shadow-md">
-              <Leaf className="w-5 h-5 text-white" />
-            </div>
+            <img src="/saveeatlogo.png" alt="SaveEat Logo" className="w-10 h-10 object-contain" />
             <span className="text-2xl font-heading font-bold text-slate-900">
               Save<span className="text-emerald-500">Eat</span>
             </span>

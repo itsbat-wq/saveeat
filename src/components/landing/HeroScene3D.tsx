@@ -10,6 +10,26 @@ import * as THREE from "three";
 // 3D Paper Bag with floating particles for the hero section
 // ============================================================
 
+// LogoPlane - Loads saveeatlogo.png as a texture for the bag front
+function LogoPlane() {
+  const texture = useMemo(() => {
+    const loader = new THREE.TextureLoader();
+    return loader.load("/saveeatlogo.png");
+  }, []);
+
+  return (
+    <mesh position={[0, 0, 0.001]}>
+      <planeGeometry args={[0.5, 0.5]} />
+      <meshStandardMaterial
+        map={texture}
+        transparent
+        roughness={0.4}
+        metalness={0}
+      />
+    </mesh>
+  );
+}
+
 // -------------------------------------------------------
 // Floating Particle System
 // -------------------------------------------------------
@@ -228,31 +248,20 @@ function PaperBag({ mouseX, mouseY }: { mouseX: number; mouseY: number }) {
         <meshStandardMaterial color="#2a1a0a" roughness={1} />
       </mesh>
 
-      {/* ── Zero Waste Logo (Circular text/leaf abstraction) ───────────────── */}
-      <group position={[0, -0.05, 0.36]}>
-        {/* Outer green ring */}
-        <mesh position={[0, 0, 0]}>
-          <torusGeometry args={[0.3, 0.02, 8, 30]} />
-          <meshStandardMaterial color="#22c55e" roughness={0.6} emissive="#22c55e" emissiveIntensity={0.2} />
+      {/* ── SaveEat Logo (Textured PNG) ───────────────── */}
+      <group position={[0, -0.05, 0.361]}>
+        {/* Logo background circle */}
+        <mesh position={[0, 0, -0.005]}>
+          <circleGeometry args={[0.32, 32]} />
+          <meshStandardMaterial color="#ffffff" roughness={0.4} />
         </mesh>
-        
-        {/* Top leaf */}
-        <mesh position={[0.2, 0.2, 0]} rotation={[0, 0, -0.6]}>
-          <sphereGeometry args={[0.08, 12, 12]} />
-          <meshStandardMaterial color="#4ade80" roughness={0.5} emissive="#22c55e" emissiveIntensity={0.2} />
+        {/* Logo border ring */}
+        <mesh position={[0, 0, -0.003]}>
+          <torusGeometry args={[0.32, 0.015, 8, 30]} />
+          <meshStandardMaterial color="#10b981" roughness={0.6} emissive="#22c55e" emissiveIntensity={0.15} />
         </mesh>
-
-        {/* Bottom leaf */}
-        <mesh position={[-0.2, -0.2, 0]} rotation={[0, 0, 2.5]}>
-          <sphereGeometry args={[0.08, 12, 12]} />
-          <meshStandardMaterial color="#4ade80" roughness={0.5} emissive="#22c55e" emissiveIntensity={0.2} />
-        </mesh>
-
-        {/* Inner label 'ZERO WASTE' representation */}
-        <mesh position={[0, 0, 0]}>
-          <planeGeometry args={[0.4, 0.2]} />
-          <meshStandardMaterial color="#22c55e" emissive="#16a34a" emissiveIntensity={0.4} />
-        </mesh>
+        {/* Logo image plane */}
+        <LogoPlane />
       </group>
 
       {/* ── Handles (Thin Paper Ropes) ───────────────── */}
