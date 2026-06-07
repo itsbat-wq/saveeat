@@ -1,0 +1,2215 @@
+﻿SaveEat: Platform Marketplace Food Surplus Sebagai Strategi Profitabilitas UMKM dan Solusi Hemat Mahasiswa
+
+
+  
+   
+
+
+Anggota Kelompok        : 
+
+
+Ahmad Daffa Alfattah
+	10231008
+	Ariel Itsbat Nurhaq
+	10231018
+	Amisha Nabila Wiguna
+	11231008
+	Bagas Yoga Pratama Pramudika
+	11231014
+	Ika Dwi Sabilla
+	20231030
+	Leila Lutfia Candrawati
+	20231036
+	
+
+Dosen Pengampu        : 
+
+
+Alvianus Kristian Sumual, S.E., M.E
+
+
+
+
+JURUSAN TEKNIK ELEKTRO, INFORMATIKA DAN BISNIS
+FAKULTAS SAINS DAN TEKNOLOGI INFORMASI 
+INSTITUT TEKNOLOGI KALIMANTAN
+2025/2026
+
+
+KATA PENGANTAR
+
+
+Puji syukur ke hadirat Tuhan Yang Maha Esa atas rahmat dan karunia-Nya, sehingga laporan akhir “SaveEat: Platform Marketplace Food Surplus sebagai Strategi Profitabilitas UMKM dan Solusi Hemat Mahasiswa” dapat diselesaikan dengan baik dan tepat waktu. Laporan ini disusun sebagai salah satu tugas mata kuliah Kewirausahaan Berbasis Teknologi kelas C, yang bertujuan untuk menganalisis kelayakan bisnis berbasis platform digital dalam mengatasi permasalahan makanan surplus sekaligus memberikan solusi ekonomi bagi mahasiswa dan UMKM.
+Ucapan terima kasih penulis sampaikan kepada Bapak Alvianus Kristian Sumual, S.E., M.E. selaku dosen pengampu, yang telah memberikan bimbingan, arahan, serta motivasi selama proses penyusunan laporan. Terima kasih juga kami sampaikan kepada para pelaku UMKM kuliner di Balikpapan serta mahasiswa Institut Teknologi Kalimantan yang telah berpartisipasi dalam pengumpulan data, dan tidak lupa kepada seluruh anggota kelompok yang telah berkontribusi aktif sehingga laporan ini dapat terselesaikan.
+Penulis menyadari bahwa laporan ini masih memiliki keterbatasan, baik dari sisi kedalaman analisis maupun cakupan data. Oleh karena itu, kritik dan saran yang membangun sangat diharapkan demi penyempurnaan di masa mendatang. Semoga laporan ini bermanfaat bagi pengembangan platform digital berkelanjutan, pemberdayaan UMKM lokal, serta upaya pengurangan limbah makanan di Kota Balikpapan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Balikpapan, … 2026
+Hormat Kami,
+
+
+
+
+
+
+
+
+
+
+Tim Penyusun Kelompok 8
+
+
+
+
+
+
+DAFTAR ISI
+
+
+KATA PENGANTAR        2
+DAFTAR ISI        3
+DAFTAR GAMBAR        5
+DAFTAR TABEL        6
+BAB I        7
+PENDAHULUAN        7
+1.1. Latar Belakang        7
+1.2. Rumusan Masalah        7
+1.3. Tujuan        8
+1.4. Manfaat        8
+BAB II        11
+IDENTIFIKASI SUMBER DAYA DAN PEMANFAATAN EKSISTING        11
+2.1. Identifikasi Sumber Daya        11
+2.1.1 Sumber Daya Kuliner dan UMKM        11
+2.1.2 Sumber Daya Manusia        11
+2.1.3 Sumber Daya Teknologi        12
+2.1.4 Sumber Daya Pasar        12
+2.2. Pemanfaatan sumber Daya yang Sudah Ada        12
+2.2.1 Pemanfaatan Sumber Daya Kuliner        12
+2.2.2 Pemanfaatan Teknologi Digital        13
+2.2.3 Pemanfaatan Potensi Mahasiswa sebagai Konsumen        13
+2.2.4 Pemanfaatan Sistem Pembayaran Digital        13
+2.3. Permasalahan dan Kesenjangan        13
+2.3.1 Tingginya Limbah Makanan        14
+2.3.2 Belum Adanya Platform Khusus Makanan Surplus        14
+2.3.3 Keterbatasan Akses terhadap Makanan Terjangkau        14
+2.3.4 Belum Optimalnya Pemanfaatan Teknologi untuk Pengurangan Food Waste        14
+2.3.5 Belum Optimalnya Pemanfaatan Teknologi untuk Pengurangan Food Waste        14
+BAB III        16
+PEMETAAN PEMBANGUNAN DAERAH & KETERKAITAN SUMBER DAYA        16
+3.1. Visi, Misi, dan Prioritas Pembangunan Daerah        16
+3.2. Pemetaan Sumber Daya Terhadap Prioritas Pembangunan        16
+3.2.1 Sumber Daya UMKM Kuliner        16
+3.2.2 Sumber Daya Teknologi Digital        17
+3.2.3 Sumber Daya Konsumen        17
+3.2.4 Sumber Daya Makanan Surplus        17
+3.3. Analisis Kebutuhan Pemanfaatan Sumber Daya Baru        18
+3.3.1 Kebutuhan Pengembangan Kemitraan        18
+3.3.2 Kebutuhan Penguatan Infrastuktur Digital        19
+3.3.4 Kebutuhan Dukungan Pendanaan        19
+3.3.5 Kebutuhan Penguatan Ekosistem Berkelanjutan        19
+BAB IV        21
+POTENSI PEMANFAATAN BARU, FOKUS RISET, DAN SDGs        21
+4.1. Potensi Pemanfaatan Sumber Daya yang Belum Optimal        21
+4.2. Keterkaitan Dengan Fokus Riset Daerah/Nasional        21
+4.3. Kontribusi Terhadap Tujuan Pembangunan Berkelanjutan (SDGs)        21
+BAB V        22
+PERENCANAAN DAN STUDI KELAYAKAN        22
+5.1. Rencana Pelaksanaan kegiatan        22
+5.1.1. Fase - Fase Pelaksanaan Proyek        22
+5.1.2. Rincian Aktivitas Setiap Fase        23
+5.1.3. Gantt Chart Pelaksanaan Proyek SaveEat (Skala Mikro)        25
+5.1.4. Rencana Kontingensi        26
+5.2. Studi Kelayakan        27
+5.2.1. Aspek Pasar dan Pemasaran        27
+5.2.2. Aspek Teknis dan Operasional        30
+5.2.3. Aspek Manajemen        34
+5.2.4. Aspek Hukum        37
+5.2.5. Aspek Keuangan (Skala Mikro)        39
+5.2.6. Aspek Sosial Ekonomi        45
+5.3. Kesimpulan Studi Kelayakan        48
+BAB VI        50
+IMPLEMENTASI DALAM SOCIOPRENEUR        50
+6.1. Konsep Sociopreneur yang Diusulkan        50
+6.2. Mekanisme Penciptaan Nilai Sosial        50
+6.3. Indikator Dampak Sosial dan Keberlanjutan        50
+BAB VII        51
+PENUTUP        51
+7.1. Kesimpulan        51
+7.2. Rekomendasi        51
+DAFTAR PUSTAKA        52
+LAMPIRAN        54
+
+
+
+
+
+
+
+
+
+
+DAFTAR GAMBAR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DAFTAR TABEL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BAB I 
+PENDAHULUAN
+1.  Latar Belakang
+Perkembangan sektor kuliner di Kota Balikpapan menunjukkan tren peningkatan yang signifikan seiring dengan bertambahnya jumlah usaha makanan seperti warung makan, kafe, dan restoran. Kondisi ini menjadikan sektor kuliner sebagai salah satu penopang aktivitas ekonomi masyarakat, khususnya bagi pelaku Usaha Mikro, Kecil, dan Menengah (UMKM). Di sisi lain, tingginya mobilitas masyarakat, terutama mahasiswa, turut mendorong kebutuhan akan makanan siap saji yang praktis dan mudah diakses.
+Namun, di balik pertumbuhan tersebut, terdapat permasalahan yang cukup serius, yaitu adanya makanan yang tidak habis terjual pada akhir jam operasional. Makanan tersebut umumnya masih dalam kondisi layak konsumsi, tetapi tidak dapat disimpan dalam waktu lama sehingga berpotensi menjadi limbah makanan (food waste). Berdasarkan data Food and Agriculture Organization (FAO), sekitar sepertiga dari total makanan yang diproduksi di dunia terbuang setiap tahunnya, yang tidak hanya merugikan secara ekonomi tetapi juga berdampak negatif terhadap lingkungan.
+Di sisi lain, mahasiswa sebagai salah satu kelompok konsumen utama sering dihadapkan pada keterbatasan anggaran dalam memenuhi kebutuhan makanan sehari-hari. Berdasarkan hasil observasi dan wawancara, mahasiswa cenderung mencari makanan dengan harga terjangkau serta lebih tertarik pada produk yang memiliki promo atau diskon. Hal ini menunjukkan adanya kesenjangan antara ketersediaan makanan surplus dari UMKM dengan kebutuhan konsumen akan harga yang lebih ekonomis.
+Melihat kondisi tersebut, diperlukan suatu inovasi berbasis teknologi yang mampu mengatasi permasalahan food waste sekaligus memberikan manfaat ekonomi bagi pelaku usaha dan konsumen. SaveEat hadir sebagai platform marketplace makanan surplus yang memungkinkan pelaku usaha menjual makanan yang tidak habis terjual dengan harga diskon, khususnya menjelang jam tutup. Melalui sistem ini, konsumen dapat memperoleh makanan berkualitas dengan harga lebih terjangkau, sementara pelaku usaha dapat mengurangi kerugian akibat produk yang tidak terjual.
+Laporan Akhir ini disusun untuk menganalisis apakah bisnis SaveEat layak dijalankan dari berbagai aspek, meliputi aspek hukum, pasar, operasional, manajemen, keuangan, serta kontribusinya sebagai usaha sosial (sociopreneur).
+2.  Rumusan Masalah
+Berdasarkan latar belakang yang telah diuraikan, rumusan masalah dalam Laporan Akhir ini adalah sebagai berikut:
+1. Bagaimana kelayakan bisnis SaveEat dari aspek hukum dan perizinan?
+2. Bagaimana potensi pasar dan strategi pemasaran yang tepat untuk platform SaveEat?
+3. Bagaimana kesiapan aspek operasional dan teknologi dalam mendukung platform SaveEat?
+4. Bagaimana kelayakan aspek manajemen dan sumber daya manusia dalam menjalankan bisnis SaveEat?
+5. Bagaimana kelayakan aspek keuangan, meliputi investasi, proyeksi laba-rugi, dan indikator kelayakan finansial?
+6. Bagaimana kontribusi SaveEat sebagai bisnis sosial (sociopreneur) dalam mengatasi food waste dan mendukung keberlanjutan lingkungan?
+
+
+3.  Tujuan
+Sesuai dengan rumusan masalah di atas, tujuan dari Laporan Akhir ini adalah sebagai berikut:
+1. Menganalisis kesesuaian bisnis SaveEat dengan ketentuan hukum dan perizinan yang berlaku di Indonesia.
+2. Menganalisis potensi pasar serta merumuskan strategi pemasaran yang efektif untuk menjangkau target konsumen mahasiswa dan UMKM kuliner di Balikpapan.
+3. Menganalisis kesiapan aspek operasional dan teknologi dalam mengelola platform SaveEat.
+4. Menganalisis struktur manajemen dan kebutuhan sumber daya manusia dalam mengoperasikan bisnis SaveEat.
+5. Menganalisis kelayakan finansial SaveEat, meliputi kebutuhan investasi, proyeksi laba-rugi, Net Present Value (NPV), Internal Rate of Return (IRR), Payback Period, dan Break Even Point (BEP).
+6. Mengidentifikasi kontribusi SaveEat sebagai bisnis sosial dalam mengurangi limbah makanan dan mendukung tujuan pembangunan berkelanjutan (SDGs)
+
+
+4.  Manfaat
+Laporan Akhir ini diharapkan memberikan manfaat bagi berbagai pihak, antara lain:
+1. Bagi Mahasiswa (Konsumen)
+Keberadaan platform SaveEat memberikan manfaat langsung bagi mahasiswa dalam memenuhi kebutuhan pangan sehari-hari. Dengan harga yang lebih terjangkau karena menerapkan sistem diskon pada makanan surplus, mahasiswa yang memiliki keterbatasan anggaran dapat mengakses makanan berkualitas dan layak konsumsi tanpa harus mengeluarkan biaya besar. Selain itu, platform ini juga memberikan kemudahan akses melalui sistem digital yang dapat diakses kapan saja, sehingga mahasiswa tidak perlu lagi mencari warung makan murah secara konvensional. Dengan demikian, SaveEat membantu mahasiswa menghemat pengeluaran harian sekaligus mendapatkan variasi menu yang lebih beragam dari berbagai mitra UMKM.
+
+
+2. Bagi UMKM Kuliner (Mitra Merchant)
+Bagi pelaku UMKM kuliner, SaveEat menawarkan solusi efektif untuk mengurangi kerugian akibat makanan yang tidak habis terjual di akhir jam operasional. Makanan surplus yang sebelumnya terbuang kini dapat menghasilkan pendapatan tambahan melalui penjualan dengan harga diskon. Platform ini juga berfungsi sebagai sarana promosi digital yang membantu meningkatkan visibilitas UMKM di kalangan konsumen muda, khususnya mahasiswa. Dengan bergabung di SaveEat, merchant dapat menjangkau pasar yang lebih luas tanpa perlu mengeluarkan biaya pemasaran yang besar. Selain itu, sistem self-pickup yang diterapkan membuat merchant tidak terbebani oleh biaya logistik atau pengiriman.
+
+
+3. Bagi Lingkungan
+SaveEat berkontribusi secara nyata dalam upaya pengurangan limbah makanan (food waste) yang menjadi permasalahan global. Dengan memanfaatkan makanan surplus yang masih layak konsumsi, platform ini membantu mengurangi volume sampah organik yang berakhir di tempat pembuangan akhir. Hal ini berdampak positif terhadap penurunan emisi gas rumah kaca yang dihasilkan dari dekomposisi limbah makanan. Selain itu, SaveEat juga mendorong pola konsumsi yang lebih bertanggung jawab dan berkelanjutan di masyarakat, sejalan dengan prinsip ekonomi sirkular dan gaya hidup ramah lingkungan.
+
+
+4. Bagi Pengembangan Ilmu Pengetahuan dan Pendidikan
+Studi kelayakan ini memberikan kontribusi terhadap pengembangan ilmu pengetahuan, khususnya dalam bidang kewirausahaan berbasis teknologi dan studi kelayakan bisnis digital. Hasil analisis yang mencakup aspek hukum, pasar, operasional, manajemen, dan keuangan dapat menjadi referensi bagi mahasiswa lain yang ingin mengembangkan bisnis serupa. Selain itu, laporan ini juga memperkaya literatur tentang model bisnis sociopreneur yang mengintegrasikan nilai profit dengan dampak sosial dan lingkungan.
+
+
+5. Bagi Pemerintah dan Pemangku Kebijakan
+Bagi pemerintah daerah, khususnya Kota Balikpapan, SaveEat dapat menjadi contoh model bisnis yang mendukung digitalisasi UMKM sekaligus mengatasi permasalahan lingkungan perkotaan. Platform ini sejalan dengan kebijakan pembangunan berkelanjutan dan program pengurangan limbah pangan. Pemerintah dapat menjadikan SaveEat sebagai mitra dalam mendorong ekonomi digital di kalangan mahasiswa dan UMKM, serta sebagai bahan pertimbangan dalam menyusun regulasi yang mendukung inovasi berbasis keberlanjutan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BAB II 
+IDENTIFIKASI SUMBER DAYA DAN PEMANFAATAN EKSISTING
+1.  Identifikasi Sumber Daya
+Sebelum mengembangkan solusi yang ditawarkan melalui platform SaveEat, diperlukan proses identifikasi terhadap berbagai sumber daya yang tersedia serta berpotensi untuk dioptimalkan pemanfaatannya. Sumber daya tersebut mencakup sumber daya manusia, sumber daya teknologi, sumber daya ekonomi, serta potensi yang berasal dari sektor kuliner lokal. Identifikasi ini dilakukan untuk memastikan bahwa seluruh sumber daya yang relevan dapat mendukung implementasi dan keberlanjutan platform secara efektif. 
+
+
+2.1.1 Sumber Daya Kuliner dan UMKM
+Perkembangan industri kuliner, seperti rumah makan, kafe, dan restoran, menunjukkan tren positif di berbagai wilayah, termasuk Kota Balikpapan. Fenomena ini membuka peluang ekonomi yang signifikan bagi sektor Usaha Mikro, Kecil, dan Menengah (UMKM). Kendati demikian, ekspansi ini menyisakan tantangan manajerial berupa adanya akumulasi produk makanan yang tidak terjual di akhir jam operasional, yang berisiko tinggi menjadi limbah pangan (food waste). Data dari Darmawan dkk. (2023) menyebutkan bahwa produksi limbah makanan di Indonesia berkisar antara 150–184 kg per kapita setiap tahunnya. Angka ini mencerminkan adanya inefisiensi yang besar dalam pemanfaatan sumber daya pangan domestik. Dalam perspektif operasional platform SaveEat, produk pangan surplus yang masih memenuhi standar kelayakan konsumsi diidentifikasi sebagai aset potensial dengan nilai ekonomi dan sosial yang tinggi, asalkan dikelola lewat mekanisme distribusi yang terintegrasi. Berangkat dari urgensi tersebut, makanan surplus dari pelaku UMKM kuliner diposisikan sebagai pasokan sumber daya primer bagi pengembangan ekosistem SaveEat. Optimalisasi tata kelola komoditas ini tidak sekadar mampu menekan kerugian finansial yang dihadapi pelaku usaha, tetapi juga berfungsi sebagai solusi pemenuhan pangan yang ekonomis bagi masyarakat luas.
+
+
+2.1.2 Sumber Daya Manusia
+Keberhasilan suatu program atau lini bisnis sangat bergantung pada kualitas pengelolaan sumber daya manusia (SDM) di dalamnya. Untuk menjamin efektivitas operasional, struktur tim internal SaveEat mengonsolidasikan enam personel dengan pembagian peran yang berbasis kompetensi, meliputi Project Manager, System Development, Market Research, Promotion Strategy, Finance, serta Documentation and Administration. Spesialisasi tugas ini diterapkan agar setiap anggota dapat mengoptimalkan tanggung jawabnya guna mengakselerasi proses pengembangan bisnis. Di samping tim pengembang, pilar SDM SaveEat juga diperkuat oleh elemen eksternal, yakni pelaku UMKM kuliner selaku mitra strategis dan kelompok mahasiswa sebagai target pengguna utama. Sinergi yang terjalin di antara kedua entitas tersebut menjadi fondasi krusial dalam membangun dan mempertahankan ekosistem platform ini.
+
+
+2.1.3 Sumber Daya Teknologi
+Akselerasi teknologi digital membuka peluang luas bagi pengembangan solusi berbasis platform. Sejalan dengan hal tersebut, Afriyadi dan Putri (2025) mengungkapkan bahwa digitalisasi pada sektor kuliner efektif mendongkrak daya saing UMKM lewat ekspansi jangkauan pasar serta optimalisasi efisiensi layanan. Integrasi teknologi ini kian krusial mengingat mayoritas masyarakat, terutama kalangan mahasiswa, menunjukkan pola ketergantungan yang tinggi terhadap internet dan gawai dalam aktivitas harian mereka. Guna menangkap peluang tersebut, SaveEat mengintegrasikan teknologi modern seperti Next.js, Supabase, dan Midtrans untuk mengelola data, memproses transaksi, serta menjembatani interaksi antara pengguna dan mitra (merchant). Di sisi lain, adopsi infrastruktur berbasis cloud memastikan operasional sistem berjalan efisien sekaligus memangkas kebutuhan investasi perangkat keras (hardware) secara signifikan.
+
+
+2.1.4 Sumber Daya Pasar
+Mahasiswa merupakan salah satu segmen konsumen yang memiliki kebutuhan tinggi terhadap makanan dengan harga yang ekonomis. Sementara itu, pelaku UMKM di bidang kuliner sering menghadapi permasalahan berupa makanan yang tidak habis terjual pada akhir periode penjualan. Kondisi tersebut menciptakan peluang pasar yang potensial bagi SaveEat sebagai platform yang berperan dalam menghubungkan UMKM kuliner dengan konsumen yang membutuhkan makanan terjangkau. Berdasarkan latar belakang usaha SaveEat, masih terdapat ketidakseimbangan antara tingginya permintaan masyarakat terhadap makanan dengan harga terjangkau dan ketersediaan makanan surplus yang belum dimanfaatkan secara optimal. Oleh karena itu, keberadaan pasar yang terdiri dari UMKM kuliner sebagai penyedia produk dan mahasiswa sebagai konsumen utama menjadi sumber daya strategis yang mendukung pengembangan serta keberlanjutan bisnis SaveEat.
+
+
+2.  Pemanfaatan sumber Daya yang Sudah Ada
+Saat ini, berbagai sumber daya yang tersedia telah dimanfaatkan oleh masyarakat maupun pelaku usaha. Namun, pemanfaatan sumber daya tersebut masih belum dilakukan secara maksimal sehingga belum mampu memberikan solusi yang efektif terhadap permasalahan food waste. 
+
+
+2.2.1 Pemanfaatan Sumber Daya Kuliner
+Saat ini, pelaku UMKM di sektor kuliner telah menerapkan berbagai upaya untuk meningkatkan volume penjualan, antara lain melalui promosi di media sosial serta kerja sama dengan platform layanan pesan antar makanan. Meskipun demikian, makanan yang tidak terjual hingga akhir operasional harian umumnya masih berakhir sebagai limbah atau hanya didistribusikan secara terbatas kepada pihak tertentu. Kondisi tersebut menyebabkan potensi nilai ekonomi dari makanan surplus belum dapat dimanfaatkan secara optimal. 
+
+
+2.2.2 Pemanfaatan Teknologi Digital
+Transformasi digital pada industri kuliner menunjukkan perkembangan yang pesat dalam beberapa tahun terakhir. Platform digital seperti GoFood, GrabFood, dan ShopeeFood telah menjadi sarana yang banyak digunakan oleh pelaku UMKM untuk mendukung kegiatan promosi dan distribusi produk. Menurut Afriyadi dan Putri (2025), penggunaan platform digital berkontribusi dalam memperluas akses pasar serta meningkatkan daya saing UMKM. Meskipun demikian, platform-platform tersebut umumnya masih berfokus pada penjualan produk makanan reguler dan belum menyediakan fitur atau layanan yang secara khusus ditujukan untuk pemasaran makanan surplus yang masih layak dikonsumsi.
+
+
+2.2.3 Pemanfaatan Potensi Mahasiswa sebagai Konsumen
+Perkembangan teknologi digital telah mendorong mahasiswa untuk menjadi pengguna aktif berbagai layanan berbasis aplikasi, termasuk layanan pemesanan makanan. Sebagai kelompok yang cenderung mempertimbangkan aspek harga dalam memenuhi kebutuhan konsumsi, mahasiswa sering memanfaatkan promo dan diskon yang ditawarkan oleh berbagai platform. Meskipun demikian, peluang untuk memperoleh makanan surplus yang masih aman dan layak dikonsumsi masih belum optimal karena belum tersedia platform yang secara khusus menghubungkan mahasiswa dengan pelaku usaha yang memiliki sisa stok makanan yang berpotensi terbuang.
+
+
+2.2.4 Pemanfaatan Sistem Pembayaran Digital
+Perkembangan teknologi keuangan digital telah memberikan kemudahan dalam pelaksanaan transaksi yang lebih cepat, efisien, dan aman. SaveEat memanfaatkan perkembangan tersebut dengan mengintegrasikan sistem pembayaran digital ke dalam platform, sehingga pengguna dapat melakukan transaksi secara praktis dan nyaman. Selain itu, penerapan layanan payment gateway turut meningkatkan tingkat keamanan transaksi serta memperkuat kepercayaan pengguna terhadap platform yang digunakan. 
+3.  Permasalahan dan Kesenjangan
+Walaupun pemanfaatan sumber daya telah dilakukan, masih terdapat kesenjangan dalam pengelolaannya sehingga manfaat yang dihasilkan belum mencapai tingkat yang optimal. 
+
+
+2.3.1 Tingginya Limbah Makanan
+Permasalahan food waste merupakan isu global yang hingga saat ini masih menjadi tantangan penting dalam pengelolaan sumber daya pangan. Menurut data dari Food and Agriculture Organization (FAO), sekitar sepertiga makanan yang diproduksi di seluruh dunia terbuang setiap tahunnya. Kondisi tersebut mengakibatkan kerugian ekonomi yang besar serta memberikan dampak negatif terhadap keberlanjutan lingkungan. Dalam konteks industri kuliner lokal, makanan yang tidak habis terjual sering kali berakhir sebagai limbah, padahal masih memenuhi standar kelayakan untuk dikonsumsi.
+
+
+2.3.2 Belum Adanya Platform Khusus Makanan Surplus
+Walaupun terdapat sejumlah platform pemesanan makanan yang beroperasi saat ini, belum banyak yang berfokus pada pengelolaan dan distribusi makanan surplus. Akibatnya, pelaku usaha menghadapi keterbatasan dalam menyalurkan makanan yang tidak habis terjual sebelum kualitas produk menurun. Kesenjangan ini menjadi dasar pengembangan SaveEat sebagai platform yang dirancang untuk memfasilitasi distribusi makanan surplus secara lebih efisien dan berkelanjutan. 
+
+
+2.3.3 Keterbatasan Akses terhadap Makanan Terjangkau
+Mahasiswa merupakan salah satu segmen konsumen yang memiliki tingkat kepekaan tinggi terhadap harga makanan akibat keterbatasan anggaran yang dimiliki. Di sisi lain, terdapat sejumlah makanan surplus yang masih layak konsumsi dan berpotensi dipasarkan dengan harga yang lebih terjangkau. Namun, belum tersedianya platform atau mekanisme yang mampu menghubungkan penyedia makanan surplus dengan mahasiswa menyebabkan potensi pemanfaatan sumber daya tersebut belum dapat dioptimalkan secara maksimal.
+
+
+2.3.4 Belum Optimalnya Pemanfaatan Teknologi untuk Pengurangan Food Waste
+Perkembangan teknologi digital telah menciptakan kemudahan dalam pertukaran informasi dan pelaksanaan transaksi secara real-time. Meskipun demikian, pemanfaatannya dalam mendukung pengurangan food waste masih tergolong terbatas. Padahal, teknologi dapat berperan sebagai sarana yang efektif untuk menghubungkan penyedia makanan surplus dengan calon konsumen, sehingga distribusi makanan yang masih layak konsumsi dapat dilakukan secara lebih efisien dan berkelanjutan.
+
+
+2.3.5 Belum Optimalnya Pemanfaatan Teknologi untuk Pengurangan Food Waste
+Berdasarkan berbagai permasalahan yang telah diidentifikasi, SaveEat dikembangkan sebagai platform marketplace makanan surplus yang memanfaatkan teknologi digital untuk mempertemukan pelaku UMKM kuliner dengan konsumen, terutama kalangan mahasiswa. Platform ini memungkinkan makanan surplus yang sebelumnya berisiko terbuang menjadi limbah untuk dimanfaatkan kembali melalui penjualan dengan harga yang lebih terjangkau. Dengan demikian, pelaku usaha memperoleh peluang tambahan untuk meningkatkan pendapatan, sementara konsumen dapat mengakses makanan berkualitas dengan biaya yang lebih ekonomis. Selain memberikan manfaat dari sisi ekonomi, SaveEat juga berkontribusi dalam upaya pengurangan food waste serta mendukung terciptanya pembangunan yang berkelanjutan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BAB III 
+PEMETAAN PEMBANGUNAN DAERAH & KETERKAITAN SUMBER DAYA
+1.  Visi, Misi, dan Prioritas Pembangunan Daerah
+Pembangunan daerah yang efektif memerlukan sinergi antara optimalisasi sumber daya dan adaptasi terhadap dinamika teknologi serta perubahan perilaku konsumsi. Dalam konteks Balikpapan sebagai kota penyangga Ibu Kota Nusantara (IKN), penguatan sektor UMKM menjadi agenda krusial untuk mendorong pertumbuhan ekonomi yang inklusif dan berkelanjutan. Sesuai dengan mandat UU No. 20 Tahun 2008 dan PP No. 7 Tahun 2021, pemberdayaan UMKM melalui digitalisasi kini menjadi keharusan strategis guna meningkatkan daya saing serta efisiensi operasional, sebagaimana ditegaskan oleh Putri (2022). Lebih lanjut, integrasi prinsip keberlanjutan menjadi aspek vital dalam pembangunan ekonomi daerah. Merujuk pada penelitian Pradani dan Safitri (2025), penerapan model bisnis berkelanjutan pada UMKM, khususnya dalam mitigasi food waste di sektor kuliner, memberikan solusi atas tantangan lingkungan sekaligus ekonomi. Melalui pemanfaatan teknologi digital, efisiensi rantai distribusi antara pelaku usaha dan konsumen dapat dioptimalkan. Dengan demikian, platform SaveEat hadir sebagai solusi strategis yang selaras dengan prioritas pembangunan daerah dalam hal penguatan UMKM, akselerasi transformasi digital, serta upaya pengurangan limbah makanan.
+
+
+2.  Pemetaan Sumber Daya Terhadap Prioritas Pembangunan
+Pemetaan sumber daya bertujuan untuk memetakan potensi wilayah sekaligus menyelaraskannya dengan prioritas pembangunan yang telah ditetapkan. Merujuk pada analisis pada Bab II, ditemukan sejumlah sumber daya strategis yang memiliki kapasitas kuat untuk mendukung akselerasi tujuan pembangunan daerah melalui implementasi sistem SaveEat. 
+
+
+3.2.1 Sumber Daya UMKM Kuliner
+Pertumbuhan sektor UMKM kuliner di Kota Balikpapan selaras dengan visi pembangunan ekonomi daerah yang mengedepankan pemberdayaan usaha mikro sebagai pilar penyerapan tenaga kerja. Namun, pemetaan sumber daya saat ini menunjukkan adanya inefisiensi berupa tingginya akumulasi surplus produk layak konsumsi yang berpotensi menjadi beban lingkungan.SaveEat hadir sebagai instrumen teknologi untuk mengintegrasikan kembali sumber daya yang terbuang tersebut ke dalam rantai pasok ekonomi. Melalui optimalisasi platform ini, terdapat keterkaitan strategis antara pengurangan limbah makanan (food waste) dengan peningkatan nilai ekonomi bagi pelaku UMKM. Hal ini tidak hanya mendukung efisiensi operasional pelaku usaha, tetapi juga sejalan dengan agenda pembangunan kota yang berkelanjutan dengan meminimalkan risiko kerugian material dan mengoptimalkan sirkulasi pendapatan lokal.
+
+
+3.2.2 Sumber Daya Teknologi Digital
+Dalam konteks pemetaan sumber daya, masifnya penetrasi internet dan penggunaan perangkat seluler menjadi modal dasar dalam mengakselerasi transformasi digital di daerah. Sejalan dengan perspektif Ahmad dan Cahya (2024), integrasi teknologi digital merupakan variabel krusial dalam memperkuat daya saing pelaku usaha di tengah dinamika ekonomi digital saat ini. SaveEat mengkontekstualisasikan sumber daya tersebut dengan mengimplementasikan arsitektur web modern, cloud computing, serta sistem pembayaran digital yang terintegrasi. Pendekatan ini tidak hanya memfasilitasi aksesibilitas layanan bagi pengguna, tetapi juga memberikan kontribusi substansial terhadap agenda pemerintah dalam membangun ekosistem ekonomi digital serta mewujudkan konsep Smart City yang inklusif. 
+
+
+3.2.3 Sumber Daya Konsumen
+Pemetaan pasar menunjukkan bahwa mahasiswa dan masyarakat urban di Kota Balikpapan merupakan kelompok dengan tingkat literasi digital yang tinggi, yang menjadi aset penting bagi keberhasilan model bisnis berbasis teknologi. Mengacu pada data Katadata Insight Center (2022), kecenderungan generasi muda dalam mengintegrasikan platform digital ke dalam pola konsumsi sehari-hari menciptakan peluang pasar yang signifikan. Ketersediaan basis pengguna ini menjadi sumber daya kunci bagi SaveEat dalam membangun ekosistem transaksi makanan surplus yang efektif, efisien, dan memiliki daya jangkau yang luas di tengah masyarakat perkotaan. 
+
+
+3.2.4 Sumber Daya Makanan Surplus
+Dalam konteks pemetaan sumber daya daerah, makanan surplus sering kali terabaikan padahal memiliki potensi nilai ekonomi yang signifikan. Sejalan dengan perspektif Darmawan dkk. (2023), adopsi pendekatan zero waste melalui pemanfaatan kembali surplus makanan dapat menjadi solusi strategis untuk mengonversi potensi limbah menjadi nilai tambah ekonomi sekaligus memitigasi dampak lingkungan. Implementasi platform SaveEat dalam ekosistem lokal bertindak sebagai mekanisme distribusi yang menjembatani kesenjangan pasokan. Dengan mengoptimalkan aliran sumber daya yang sebelumnya tidak termanfaatkan, sistem ini mendukung terciptanya rantai pasok kuliner yang lebih efisien dan berkelanjutan di Kota Balikpapan. 
+
+
+Tabel 3.1 Pemetaan Sumber Daya terhadap Prioritas Pembangunan Daerah
+
+
+Prioritas Pembangunan Daerah
+	Sumber Daya Pendukung
+	Kondisi Eksisting
+	Kontribusi  Strategis SaveEat
+	Penguatan Sektor UMKM
+	Ekosistem UMKM kuliner lokal
+	Pertumbuhan jumlah unit usaha yang pesat
+	Optimalisasi pendapatan melalui sistem pemasaran produk surplus
+	Transformasi Digital
+	Infrastruktur (Internet, mobile device, cloud)
+	Adopsi teknologi yang sudah memadai
+	Penyediaan ekosistem marketplace berbasis teknologi digital
+	Peningkatan Kesejahteraan
+	Segmen mahasiswa & masyarakat urban
+	Tingginya kebutuhan akan konsumsi pangan terjangkau
+	Aksesbilitas produk pangan dengan harga yang lebih ekonomis
+	Pembangunan Berkelanjutan
+	Inventarisasi produk makanan surplus
+	Pemanfaatan sumber daya yang belum optimal
+	Mitigasi food waste melalui peningkatan efisiensi rantai pasok
+	Pengembangan Ekonomi Digital
+	Basis pengguna internet aktif
+	Dominasi perilaku transaksi berbasis aplikasi
+	Akselerasi ekosistem transaksi digital pada sektor kuliner
+	
+
+Sebagaimana diuraikan dalam tabel, terdapat korelasi yang signifikan antara potensi sumber daya daerah dengan prioritas agenda pembangunan yang telah ditetapkan. Dalam konteks ini, SaveEat berfungsi sebagai katalisator yang mengintegrasikan pemanfaatan sumber daya tersebut secara lebih efisien, dengan mengandalkan dukungan infrastruktur teknologi digital sebagai mesin penggerak utama. 
+3.  Analisis Kebutuhan Pemanfaatan Sumber Daya Baru
+Meskipun infrastruktur dan sumber daya pendukung saat ini telah tersedia, operasionalisasi SaveEat memerlukan pengintegrasian sumber daya strategis tambahan guna menjamin skalabilitas program. Optimalisasi keterkaitan antar sumber daya ini krusial untuk memastikan bahwa implementasi teknologi tidak hanya berjalan secara efektif, tetapi juga memiliki ketahanan (sustainability) dalam jangka panjang di ekosistem ekonomi lokal. 
+
+
+            3.3.1 Kebutuhan Pengembangan Kemitraan
+Sebagaimana dikemukakan oleh Yuliani dkk. (2025), efektivitas operasional sebuah startup digital sangat bergantung pada kapasitasnya dalam membangun jejaring kemitraan yang komprehensif. Dalam konteks pemetaan sumber daya di Kota Balikpapan, SaveEat mengadopsi pendekatan kolaboratif dengan merangkul berbagai pemangku kepentingan, mulai dari UMKM kuliner, komunitas bisnis, hingga sinergi dengan institusi pendidikan dan pemerintah daerah. Keterkaitan sumber daya yang terbangun melalui kemitraan ini menjadi kunci utama bagi SaveEat dalam memperluas jangkauan layanan serta memperkuat fondasi ekonomi digital yang berkelanjutan di tingkat lokal. 
+
+
+            3.3.2 Kebutuhan Penguatan Infrastuktur Digital
+Peningkatan basis pengguna secara linier menuntut adaptabilitas infrastruktur sistem yang lebih tangguh. Sejalan dengan temuan Irfansyah dkk. (2024), adopsi teknologi cloud computing menjadi krusial dalam menunjang fleksibilitas dan efisiensi manajemen layanan digital. Oleh karena itu, diperlukan optimalisasi berkelanjutan terhadap arsitektur server, basis data, serta protokol keamanan guna memastikan kesiapan sistem dalam mengimbangi dinamika pertumbuhan permintaan di tingkat daerah.  
+
+
+3.3.3 Kebutuhan Peningkatan Literasi Digital
+Kesenjangan kapabilitas digital di kalangan pelaku UMKM menjadi variabel krusial dalam pemetaan sumber daya manusia di Kota Balikpapan. Sejalan dengan temuan Mahmud dkk. (2025), tingkat literasi digital merupakan determinan utama bagi efektivitas adopsi teknologi dalam aktivitas operasional bisnis. Mengingat variasi tingkat pemahaman teknologi di antara para pelaku usaha, integrasi platform SaveEat memerlukan strategi pendampingan yang inklusif. Program edukasi terstruktur menjadi elemen pendukung wajib untuk memitigasi hambatan teknis dan memastikan seluruh mitra UMKM mampu memanfaatkan ekosistem digital secara optimal guna mendukung keberlangsungan usaha. 
+
+
+3.3.4 Kebutuhan Dukungan Pendanaan
+Keberlanjutan operasional platform SaveEat bergantung pada ketersediaan modal strategis untuk mendukung pengembangan sistem, perluasan pemasaran, serta inovasi fitur berkelanjutan. Dalam kerangka pembangunan ekosistem kewirausahaan di Balikpapan, pemenuhan kebutuhan pendanaan ini diarahkan melalui sinergi berbagai sumber daya, mencakup partisipasi dalam program hibah kewirausahaan, pendampingan melalui inkubator bisnis, serta kemitraan dengan investor strategis. Integrasi pendanaan ini merupakan langkah krusial untuk memastikan platform dapat berfungsi sebagai katalisator ekonomi yang mampu memberikan manfaat jangka panjang bagi UMKM lokal. 
+
+
+3.3.5 Kebutuhan Penguatan Ekosistem Berkelanjutan
+Keberhasilan operasional SaveEat merupakan hasil dari sinergi multipihak yang melampaui sekadar aspek teknis aplikasi. Dibutuhkan kolaborasi strategis antara otoritas pemerintah daerah, institusi perguruan tinggi, pelaku UMKM, serta masyarakat untuk membangun ekosistem digital yang adaptif terhadap isu food waste. Sejalan dengan pemetaan sumber daya, pengembangan platform ini memerlukan dukungan komprehensif yang mencakup penguatan kemitraan, pemutakhiran infrastruktur digital, peningkatan literasi digital, serta alokasi pendanaan yang berkelanjutan. Pemanfaatan sumber daya tersebut secara kolektif diharapkan dapat memposisikan SaveEat sebagai katalis pembangunan ekonomi daerah yang mampu memitigasi limbah makanan secara sistematis. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BAB IV 
+POTENSI PEMANFAATAN BARU, FOKUS RISET, DAN SDGs
+1.  Potensi Pemanfaatan Sumber Daya yang Belum Optimal
+Berdasarkan hasil identifikasi sumber daya pada Bab II dan pemetaan terhadap prioritas pembangunan daerah pada Bab III, terdapat sejumlah sumber daya strategis di Kota Balikpapan yang hingga saat ini belum dimanfaatkan secara optimal. Ketidakoptimalan ini menciptakan kesenjangan yang pada saat yang sama merupakan peluang besar bagi pengembangan platform SaveEat sebagai solusi berbasis teknologi. 
+
+
+4.1.1 Makanan Surplus UMKM Kuliner
+Ribuan porsi makanan dari ratusan UMKM kuliner di Kota Balikpapan berakhir sebagai limbah setiap harinya karena tidak habis terjual menjelang jam tutup. Menurut data FAO (2019), sekitar sepertiga dari total produksi makanan dunia terbuang sia-sia setiap tahunnya, dan kondisi ini juga terjadi di tingkat lokal. Makanan surplus ini sejatinya masih memiliki nilai ekonomi dan nilai gizi yang tinggi, namun tidak ada mekanisme distribusi yang efisien untuk menyalurkannya kepada konsumen yang membutuhkan. SaveEat mengidentifikasi makanan surplus sebagai aset strategis yang dapat dikonversi menjadi pendapatan tambahan bagi UMKM sekaligus memberikan akses pangan terjangkau bagi mahasiswa..
+
+
+4.1.2 Potensi Segmen Konsumen Mahasiswa
+Mahasiswa Institut Teknologi Kalimantan (ITK) dan perguruan tinggi lain di Balikpapan merupakan segmen konsumen besar dengan kebutuhan pangan harian yang tinggi namun memiliki keterbatasan anggaran. Berdasarkan data Katadata Insight Center (2022), sekitar 70 persen pengeluaran bulanan mahasiswa dialokasikan untuk kebutuhan makan dan minum. Potensi ini belum dimanfaatkan secara optimal karena belum tersedia platform yang secara spesifik menghubungkan mahasiswa dengan makanan surplus dari UMKM terdekat. SaveEat hadir untuk mengisi celah pasar (market gap) tersebut dengan sistem Mystery Bag yang menawarkan diskon 50–70 persen dari harga normal.
+
+
+4.1.3 Infrastruktur Teknologi Digital
+Penetrasi internet dan penggunaan perangkat seluler di kalangan mahasiswa dan pelaku UMKM di Balikpapan sudah cukup tinggi. Namun, pemanfaatan infrastruktur digital ini untuk sektor food surplus masih sangat terbatas. Platform seperti GoFood, GrabFood, dan ShopeeFood memang telah banyak digunakan, tetapi tidak memiliki fitur khusus untuk pengelolaan dan distribusi makanan surplus. SaveEat memanfaatkan infrastruktur digital yang sudah ada—berupa koneksi internet, gawai, dan sistem pembayaran digital—untuk membangun ekosistem marketplace makanan surplus yang lebih efisien dan terintegrasi menggunakan teknologi Next.js, Supabase, dan Midtrans.
+
+
+4.1.4 Kapasitas Literasi Digital Pelaku UMKM
+Sebagian besar pelaku UMKM kuliner di Balikpapan telah menggunakan media sosial untuk promosi dan beberapa telah bergabung dengan platform delivery. Kapasitas literasi digital yang sudah dimiliki ini merupakan aset berharga yang belum dioptimalkan untuk pengelolaan makanan surplus. Dengan pendampingan dan pelatihan yang tepat dari tim SaveEat, pelaku UMKM dapat dengan cepat mengadopsi platform ini untuk mengelola stok surplus, menetapkan harga diskon, dan memantau transaksi secara real-time.
+4.1.5 Data Transaksi dan Perilaku Konsumen
+Platform digital SaveEat yang dikembangkan dengan arsitektur berbasis Supabase memiliki kemampuan untuk mengumpulkan dan menganalisis data transaksi secara real-time. Data ini mencakup pola permintaan konsumen, preferensi jenis makanan, waktu pickup paling populer, dan performa merchant. Potensi data ini belum banyak dimanfaatkan oleh pelaku UMKM kuliner konvensional. Dengan analitik berbasis data yang tersedia di dashboard merchant SaveEat, pelaku usaha dapat mengambil keputusan bisnis yang lebih cerdas untuk mengurangi kelebihan produksi dan meningkatkan efisiensi operasional. 
+Tabel 4.1 Ringkasan Potensi Pemanfaatan Sumber Daya yang Belum Optimal
+Sumber Daya
+	Kondisi Saat Ini
+	Potensi Pemanfaatan Baru (SaveEat)
+	Makanan Surplus UMKM
+	Berakhir sebagai limbah di akhir jam operasional
+	Dijual via Mystery Bag dengan diskon 50–70% melalui platform digital
+	Segmen Mahasiswa
+	Mencari makanan murah secara konvensional tanpa platform khusus
+	Akses makanan berkualitas dengan harga terjangkau melalui aplikasi SaveEat
+	Infrastruktur Digital
+	Dimanfaatkan untuk delivery biasa, belum ada fitur food surplus
+	Marketplace food surplus terintegrasi dengan teknologi cloud dan pembayaran digital
+	Literasi Digital UMKM
+	Sudah menguasai media sosial dasar namun belum dioptimalkan
+	Dimanfaatkan untuk onboarding dan pengelolaan toko digital di SaveEat
+	Data Transaksi
+	Belum dikumpulkan dan dianalisis secara sistematis oleh UMKM
+	Dashboard analitik real-time untuk pengambilan keputusan bisnis yang lebih cerdas
+	2.  Potensi Pemanfaatan Sumber Daya yang Belum Optimal
+Platform SaveEat tidak berdiri sendiri sebagai entitas bisnis semata, melainkan memiliki keterkaitan yang erat dengan agenda riset dan inovasi yang sedang diprioritaskan baik di tingkat daerah maupun nasional. Keterkaitan ini menjadi landasan penting yang memperkuat relevansi dan keberlanjutan Save Eat sebagai solusi berbasis teknologi.
+
+
+4.2.1 Keterkaitan dengan Riset Pengurangan Food Waste 
+Isu food waste telah menjadi salah satu fokus riset prioritas di Indonesia. Pemerintah melalui Badan Riset dan Inovasi Nasional (BRIN) secara aktif mendorong penelitian terkait model bisnis berkelanjutan untuk mengatasi pemborosan pangan. Darmawan dkk. (2023) dalam penelitiannya tentang model bisnis berkelanjutan dengan pendekatan zero waste di Bali menegaskan bahwa pemanfaatan kembali makanan surplus melalui platform digital merupakan solusi yang inovatif dan terukur. SaveEat secara langsung berkontribusi pada agenda riset ini dengan mengimplementasikan model distribusi makanan surplus berbasis teknologi yang dapat direplikasi di kota-kota lain di Indonesia, dimulai dari Balikpapan sebagai kota percontohan.
+
+
+
+
+4.2.2 Keterkaitan dengan Riset Digitalisasi UMKM 
+Digitalisasi UMKM merupakan salah satu agenda riset nasional yang tercantum dalam Rencana Induk Riset Nasional (RIRN). Afriyadi dan Putri (2025) dalam penelitiannya tentang penggunaan aplikasi layanan pesan antar makanan pada UMKM menyimpulkan bahwa digitalisasi secara signifikan meningkatkan daya saing dan jangkauan pasar pelaku UMKM. SaveEat menjadi laboratorium nyata untuk menguji dan membuktikan hipotesis ini dalam konteks food surplus marketplace. Data yang dihasilkan dari operasional SaveEat mulai dari tingkat adopsi merchant, volume transaksi, hingga dampak terhadap pendapatan UMKM dapat menjadi bahan riset yang berharga bagi kalangan akademisi dan pembuat kebijakan.
+
+
+4.2.3 Keterkaitan dengan Riset Ekonomi Sirkular 
+Konsep ekonomi sirkular yang menekankan pemanfaatan kembali sumber daya secara berkelanjutan menjadi fokus riset yang semakin relevan di Indonesia. SaveEat mengimplementasikan prinsip ekonomi sirkular dalam konteks sektor kuliner dengan mengalirkan kembali makanan surplus yang hampir terbuang ke dalam rantai konsumsi. Pendekatan ini selaras dengan agenda riset Kementerian Lingkungan Hidup dan Kehutanan (KLHK) terkait pengurangan limbah organik perkotaan. Sebagai kota penyangga Ibu Kota Nusantara (IKN), Balikpapan memiliki kepentingan khusus dalam pengembangan model pengelolaan kota yang berkelanjutan, dan SaveEat dapat menjadi salah satu solusi konkret yang diterapkan.
+
+
+4.2.4 Keterkaitan dengan Riset Teknologi Cloud dan Serverless  
+Arsitektur teknologi yang digunakan SaveEat (Next.js, Supabase, dan cloud serverless) merupakan implementasi nyata dari topik-topik riset teknologi informasi yang sedang berkembang. Irfansyah, Arief, dan Nugraha (2024) dalam penelitiannya tentang desain arsitektur serverless cloud computing menegaskan efisiensi dan skalabilitas model ini dibandingkan infrastruktur server konvensional. SaveEat menjadi studi kasus yang relevan untuk menguji bagaimana arsitektur serverless dapat diterapkan pada konteks startup digital di daerah dengan keterbatasan sumber daya. Pengalaman teknis ini dapat menjadi referensi bagi penelitian-penelitian selanjutnya di bidang rekayasa perangkat lunak dan sistem informasi.
+
+
+4.2.5 Keterkaitan dengan Agenda Riset Institut Teknologi Kalimantan (ITK) 
+Sebagai platform yang lahir dari lingkungan Institut Teknologi Kalimantan, SaveEat memiliki keterkaitan organik dengan agenda riset dan inovasi ITK. ITK memiliki mandat sebagai perguruan tinggi berbasis teknologi yang berkontribusi pada pembangunan Kalimantan, khususnya dalam mendukung visi Ibu Kota Nusantara (IKN) sebagai kota pintar dan berkelanjutan. SaveEat merepresentasikan kolaborasi antara riset teknologi (pengembangan platform digital), riset bisnis (studi kelayakan dan model monetisasi), serta riset sosial (dampak terhadap UMKM dan mahasiswa). Platform ini dapat menjadi proyek riset terapan (applied research) yang melibatkan mahasiswa dari berbagai jurusan di ITK.
+Tabel 4.2 Keterkaitan SaveEat dengan Fokus Riset Daerah/Nasional
+Fokus Riset
+	Relevansi dengan SaveEat
+	Potensi Kontribusi Riset
+	Pengurangan Food Waste (BRIN)
+	SaveEat mengurangi food waste melalui distribusi makanan surplus berbasis digital
+	Model replikasi untuk kota-kota lain di Indonesia
+	Digitalisasi UMKM (RIRN)
+	SaveEat menjadi platform digital bagi UMKM kuliner untuk memasarkan surplus
+	Data adopsi teknologi dan dampak terhadap pendapatan UMKM
+	Ekonomi Sirkular (KLHK)
+	Mengalirkan kembali makanan surplus ke rantai konsumsi (reduce & reuse)
+	Model ekonomi sirkular di sektor kuliner perkotaan
+	Teknologi Cloud Serverless
+	Implementasi arsitektur serverless yang efisien untuk startup digital daerah
+	Studi kasus arsitektur sistem untuk aplikasi food-tech berskala lokal
+	Riset Terapan ITK
+	Kolaborasi riset teknologi, bisnis, dan sosial di lingkungan kampus ITK
+	Proyek riset mahasiswa lintas jurusan dengan dampak nyata di masyarakat
+	
+
+
+
+3.  Kontribusi Terhadap Tujuan Pembangunan Berkelanjutan (SDGs)
+SaveEat dirancang tidak hanya untuk mencapai profitabilitas bisnis, tetapi juga untuk memberikan kontribusi nyata terhadap pencapaian Sustainable Development Goals (SDGs) yang telah diadopsi oleh Indonesia sebagai bagian dari komitmen pembangunan nasional hingga tahun 2030. Berikut adalah uraian kontribusi SaveEat terhadap setiap SDG yang relevan.
+
+
+4.3.1 SDG 2: Tanpa Kelaparan 
+SaveEat berkontribusi langsung pada SDG 2 melalui peningkatan akses terhadap pangan yang layak dan terjangkau bagi kelompok rentan, khususnya mahasiswa yang memiliki keterbatasan anggaran. Sistem Mystery Bag yang ditawarkan SaveEat memungkinkan mahasiswa mendapatkan makanan berkualitas dengan harga 50–70 persen lebih murah dari harga normal. Hal ini secara langsung mengurangi risiko food insecurity (ketidakamanan pangan) di kalangan mahasiswa yang tinggal jauh dari keluarga dengan biaya hidup yang terbatas. Website SaveEat (saveeat.vercel.app) telah mencatat lebih dari 8.000 mahasiswa yang memanfaatkan layanan ini, menunjukkan dampak nyata terhadap akses pangan terjangkau. Selain itu, SaveEat juga mengurangi pemborosan pangan di tingkat produksi dengan memanfaatkan kembali makanan surplus yang masih aman dikonsumsi, sejalan dengan target SDG 2 untuk menghilangkan semua bentuk kelaparan dan kekurangan gizi.
+
+
+
+
+
+
+
+
+4.3.2 SDG 8: Pekerjaan Layak dan Pertumbuhan Ekonomi 
+Platform SaveEat berkontribusi pada SDG 8 dengan mendukung pertumbuhan ekonomi inklusif melalui pemberdayaan UMKM kuliner lokal di Balikpapan. Dengan bergabung sebagai merchant di SaveEat, pelaku UMKM memperoleh saluran pendapatan tambahan dari makanan surplus yang sebelumnya tidak menghasilkan nilai ekonomi. Hal ini secara langsung meningkatkan profitabilitas UMKM dan membantu mereka mempertahankan operasional bisnis dengan lebih efisien. Website SaveEat mencatat lebih dari 500 merchant aktif yang telah bergabung, mencerminkan dampak ekonomi yang signifikan bagi komunitas UMKM lokal. Selain itu, SaveEat juga menciptakan peluang kerja bagi mahasiswa sebagai pengelola platform, pengembang teknologi, dan tenaga pemasaran, mendukung target SDG 8 untuk mempromosikan kewirausahaan dan menciptakan lapangan kerja yang layak.
+
+
+4.3.3 SDG 9: Industri, Inovasi, dan Infrastruktur 
+SaveEat merupakan wujud nyata inovasi berbasis teknologi yang mendukung SDG 9. Platform ini mengintegrasikan teknologi modern seperti arsitektur cloud serverless, real-time database (Supabase), sistem pembayaran digital (Midtrans), dan antarmuka web responsif (Next.js) untuk membangun infrastruktur digital yang inklusif dan efisien. Inovasi utama SaveEat yang berupa sistem Mystery Bag dengan fitur notifikasi real-time, peta interaktif untuk menemukan merchant terdekat, dan verifikasi pickup berbasis QR Code merupakan solusi teknologi yang belum ada sebelumnya di ekosistem food-tech Balikpapan. Dengan memanfaatkan arsitektur cloud, SaveEat juga mendemonstrasikan bagaimana startup digital dapat beroperasi dengan biaya infrastruktur yang rendah namun tetap skalabel, mendukung target SDG 9 untuk meningkatkan akses terhadap infrastruktur dan inovasi yang terjangkau.
+
+
+Tabel 4.3 Matriks Kontribusi SaveEat terhadap SDGs
+SDG
+	Target SDG yang Dituju
+	Kontribusi Konkret SaveEat
+	Indikator Capaian (Website)
+	SDG 2: Tanpa Kelaparan
+	Akses pangan yang aman, bergizi, dan terjangkau bagi semua
+	Menyediakan makanan berkualitas dengan diskon 50–70% untuk mahasiswa berpenghasilan terbatas
+	8.000+ mahasiswa pengguna aktif
+	SDG 8: Pekerjaan Layak & Pertumbuhan Ekonomi
+	Mendorong pertumbuhan ekonomi inklusif dan kewirausahaan produktif
+	Membuka saluran pendapatan tambahan bagi 500+ UMKM kuliner lokal dari makanan surplus
+	500+ merchant aktif, 4.8 rating rata-rata
+	SDG 9: Industri, Inovasi & Infrastruktur
+	Membangun infrastruktur digital yang inklusif, terjangkau, dan inovatif
+	Mengembangkan platform marketplace food surplus pertama di Balikpapan berbasis cloud serverless
+	Teknologi Next.js, Supabase, Midtrans terintegrasi
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BAB V 
+PERENCANAAN DAN STUDI KELAYAKAN
+1.  Rencana Pelaksanaan kegiatan
+Rencana pelaksanaan kegiatan SaveEat disusun secara sistematis dalam empat fase utama selama tiga bulan pra-operasional. Pemilihan durasi tiga bulan didasarkan pada tiga pertimbangan utama: (1) siklus hibah kampus seperti P2MW atau PIMNAS umumnya memberikan waktu pendanaan tiga hingga enam bulan; (2) periode tiga bulan memberikan ruang yang cukup untuk melakukan uji coba lapangan seperti onboarding merchant dan roadshow kampus; (3) durasi ini tidak terlalu panjang sehingga momentum pasar, khususnya mahasiswa ITK yang membutuhkan makanan hemat setiap hari, tidak hilang.
+
+
+5.1.1. Fase - Fase Pelaksanaan Proyek 
+Untuk memberikan gambaran yang lebih jelas mengenai alokasi waktu dan target setiap tahapan, berikut disajikan tabel yang merangkum keempat fase pelaksanaan proyek SaveEat beserta aktivitas utama dan tolok ukur keberhasilan masing-masing fase.
+
+
+Tabel 5.1 Rencana Penjadwalan Proyek SaveEat (3 Bulan Pra-Operasional) Skala Mikro
+Fase
+	Bulan
+	Aktivitas Utama
+	Tolak Ukur Keberhasilan 
+	Fase 1: Persiapan Legal dan Teknis
+	Bulan 1
+	Pengurusan NIB dan PSE, registrasi domain, pembuatan UI/UX landing page, penyusunan anggaran awal
+	Dokumen legal terbit, prototype UI siap di Figma, anggaran awal selesai
+	Fase 2: Pengembangan dan Integrasi        
+	Bulan 1–2
+	Implementasi Next.js dan Supabase (free tier), integrasi Midtrans, fitur Mystery Bag, notifikasi realtime
+	Aplikasi fungsional, load testing 300 pengguna simultan
+	Fase 3: Onboarding dan Uji Coba
+	Bulan 2
+	Onboarding 5–10 merchant di radius 3 km dari ITK, uji transaksi, kampanye kampus, evaluasi umpan balik
+	50 transaksi sukses, 10 merchant aktif, rating pengguna >4
+	Fase 4: Grand Launch dan Stabilisasi        
+	Bulan 3
+	Peluncuran resmi dengan 10 merchant, promosi omnichannel, pemantauan BEP
+	900 transaksi per bulan, laba positif
+	Agar lebih memahami secara mendalam kegiatan apa saja yang akan dilaksanakan pada setiap fase, berikut akan diuraikan rincian aktivitas masing-masing fase secara lebih terperinci.
+
+
+5.1.2. Rincian Aktivitas Setiap Fase 
+Fase 1 (Persiapan Legal dan Teknis – Bulan 1, Minggu 1–2)
+Pada fase awal ini, tim SaveEat memfokuskan diri pada dua pekerjaan utama yang bersifat fundamental, yaitu penyelesaian aspek legalitas usaha dan persiapan teknis awal pengembangan platform. Kedua jenis pekerjaan ini harus berjalan secara paralel karena tanpa izin resmi, platform tidak dapat membuka rekening bank atas nama badan usaha dan tidak dapat terdaftar di Kementerian Kominfo sebagai Penyelenggara Sistem Elektronik. Adapun rincian kegiatan yang dilakukan pada fase ini adalah sebagai berikut:
+* Pengurusan NIB (Nomor Induk Berusaha) melalui sistem OSS (Online Single Submission)
+* Pendaftaran PSE (Penyelenggara Sistem Elektronik) ke Kementerian Kominfo
+* Registrasi domain dan pembuatan akun pengembang untuk keperluan pengembangan aplikasi
+* Pembuatan UI/UX prototype menggunakan Figma sebagai dasar pengembangan antarmuka pengguna
+* Penyusunan anggaran awal dan pembagian tugas tim secara rinci
+
+
+Fase 2 (Pengembangan dan Integrasi – Bulan 1, Minggu 3–4 s/d Bulan 2, Minggu 1–2)
+Setelah aspek legal dan desain antarmuka siap, tahap selanjutnya adalah memasuki inti dari pembuatan produk, yaitu pengembangan sistem aplikasi dan integrasi berbagai layanan pendukung. Fase ini merupakan fase yang paling krusial karena menentukan apakah platform SaveEat dapat berfungsi sesuai dengan yang diharapkan oleh pengguna. Pemilihan arsitektur serverless menjadi alasan utama mengapa pengembangan backend dapat diselesaikan dalam waktu empat hingga enam minggu. Dengan serverless, tim tidak perlu mengkonfigurasi server fisik, mengatur load balancing, atau melakukan patch keamanan secara manual. Berikut adalah rincian kegiatan yang dilaksanakan pada fase pengembangan dan integrasi:
+* Implementasi Next.js untuk membangun frontend aplikasi yang cepat dan ramah mesin pencari
+* Implementasi Supabase (menggunakan free tier) untuk backend dan database sehingga tidak memerlukan biaya bulanan di tahap awal
+* Integrasi Midtrans sebagai payment gateway untuk memproses pembayaran digital secara aman
+* Pengembangan fitur Mystery Bag sebagai produk utama dan fitur notifikasi realtime untuk memberi tahu pengguna saat diskon dimulai
+* Load testing untuk memastikan sistem mampu menangani 300 pengguna secara simultan tanpa mengalami penurunan kinerja yang signifikan
+
+
+Fase 3 (Onboarding dan Uji Coba – Bulan 2, Minggu 3–4)
+Setelah aplikasi selesai dikembangkan dan diuji secara internal, langkah berikutnya adalah menguji platform di dunia nyata dengan melibatkan merchant dan konsumen sesungguhnya. Fase ini sangat penting karena menjadi ajang validasi apakah asumsi-asumsi yang dibuat pada tahap perencanaan sesuai dengan kondisi di lapangan. Tim marketing yang terdiri dari Leila Lutfia Candrawati (Market Research) dan Ika Dwi Sabilla (Promotion Strategy) bertugas melakukan riset pasar, mengidentifikasi calon merchant, dan menyusun strategi promosi. Rincian kegiatan pada fase onboarding dan uji coba adalah sebagai berikut:
+* Identifikasi dan rekrutmen 10 UMKM kuliner di sekitar Institut Teknologi Kalimantan dengan radius maksimal 3 km
+* Survei lokasi ke setiap calon merchant untuk memastikan kebersihan dapur dan kelayakan makanan yang akan dijual
+* Penandatanganan MoU (Memorandum of Understanding) kerjasama dengan merchant mitra
+* Pemasangan stiker QR Code di setiap merchant mitra untuk memudahkan konsumen melakukan pemindaian dan validasi pengambilan makanan
+* Pelatihan singkat penggunaan sistem kepada pemilik atau karyawan merchant mitra
+* Uji coba transaksi dengan target 50 kali order sukses untuk mengidentifikasi error kritis yang mungkin masih tersisa
+
+
+Fase 4 (Grand Launch dan Stabilisasi – Bulan 3, Minggu 1–4)
+Fase terakhir dari rencana pelaksanaan proyek adalah peluncuran resmi SaveEat kepada publik. Pada fase ini, seluruh persiapan yang telah dilakukan pada fase-fase sebelumnya akan diuji secara massal. Target 900 transaksi per bulan yang telah ditetapkan dalam analisis BEP menjadi acuan utama keberhasilan fase ini. Promosi besar-besaran dilakukan melalui berbagai saluran untuk membangun kesadaran merek (brand awareness) di kalangan mahasiswa ITK dan masyarakat sekitar. Rincian kegiatan pada fase grand launch dan stabilisasi adalah sebagai berikut:
+* Peluncuran resmi SaveEat untuk publik setelah semua persiapan dinyatakan siap
+* Promosi omnichannel melalui Instagram Ads, TikTok Ads, dan roadshow ke kampus-kampus
+* Pemantauan transaksi harian dan evaluasi berkala setiap minggu untuk mendeteksi anomali atau kendala operasional
+* Pencapaian target 900 transaksi per bulan sesuai dengan proyeksi yang telah dibuat pada aspek keuangan
+* Analisis BEP (Break Even Point) setelah satu bulan beroperasi penuh dan persiapan laporan akhir proyek
+Agar lebih mudah memvisualisasikan alokasi waktu setiap kegiatan selama tiga bulan ke depan, berikut disajikan Gantt Chart yang menunjukkan kapan suatu aktivitas dimulai dan berakhir.
+
+
+5.1.3. Gantt Chart Pelaksanaan Proyek SaveEat (Skala Mikro)
+Gantt chart di bawah ini disusun untuk memberikan gambaran visual mengenai jadwal pelaksanaan setiap kegiatan selama periode tiga bulan pra-operasional. Dalam gantt chart ini, simbol ██ menandakan bahwa suatu aktivitas sedang berlangsung pada periode waktu tertentu.
+
+
+Tabel 5.2 Gantt Chart Rencana Pelaksanaan Kegiatan SaveEat (Skala Mikro)
+AKTIVITAS 
+	BULAN 1
+	BULAN 2
+	BULAN 3
+	
+
+	W1
+	W2
+	W3
+	W4
+	W1
+	W2
+	W3
+	W4
+	W1
+	W2
+	W3
+	W4
+	Fase 1: Persiapan Legal & Teknis
+	
+
+	Pengurusan NIB & PSE
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Registrasi domain
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Pembuatan UI/UX Figma
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Penyusunan anggaran awal
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Fase 2: Pengembangan & Integrasi
+	
+
+	Implementasi Next.js
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Implementasi Supabase
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Integrasi Midtrans
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Fitur Mystery Bag & Notifikasi
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Load testing (300 user)
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Fase 3: Onboarding & Uji Coba
+	
+
+	Identifikasi & rekrutmen merchant
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Survei lokasi & penandatanganan MoU        
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Pemasangan stiker QR Code
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Pelatihan merchant
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Uji coba 50 transaksi
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Fase 4: Grand Launch & Stabilisasi
+	
+
+	Peluncuran resmi
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Promosi omnichannel
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Pemantauan transaksi harian
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Evaluasi berkala & laporan akhir
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Keterangan: ██ = Periode pelaksanaan aktivitas
+Setiap proyek pasti memiliki potensi hambatan atau keterlambatan yang tidak dapat diprediksi sebelumnya. Oleh karena itu, tim SaveEat telah menyiapkan rencana kontingensi untuk mengantisipasi berbagai kemungkinan terburuk yang dapat terjadi selama pelaksanaan proyek.
+
+
+5.1.4. Rencana Kontingensi
+Rencana kontingensi adalah serangkaian tindakan alternatif yang akan diambil apabila terjadi penyimpangan dari rencana awal. Penyusunan rencana kontingensi ini penting agar tim tidak kehilangan arah ketika menghadapi kendala di lapangan. Berikut adalah tabel yang memuat potensi masalah yang mungkin terjadi beserta rencana tindakan yang akan diambil oleh tim SaveEat.
+
+
+Potensi Masalah
+	Rencana Kontingensi
+	Pengurusan legalitas (NIB/PSE) memakan waktu lebih lama dari perkiraan
+	Tim tetap melanjutkan pengembangan aplikasi di lingkungan staging (lingkungan uji coba) sambil menunggu legalitas selesai
+	Onboarding merchant tertunda karena calon mitra ragu-ragu
+	Tim akan memperbanyak promosi ke mahasiswa terlebih dahulu untuk membangun demand, sehingga merchant melihat bukti bahwa ada konsumen yang menunggu
+	Terdapat kendala teknis pada saat integrasi Midtrans atau Supabase
+	Tim akan menggunakan alternatif teknologi open source yang memiliki komunitas pendukung besar, seperti Firebase sebagai alternatif Supabase
+	Target transaksi 900 per bulan tidak tercapai pada bulan pertama setelah launch
+	Tim akan mengevaluasi strategi pemasaran, menganalisis data perilaku pengguna, dan menambahkan insentif seperti kupon diskon untuk pengguna baru
+	Terjadi lonjakan pengguna di luar perkiraan sehingga sistem menjadi lambat
+	Arsitektur serverless yang digunakan sudah mendukung auto-scaling, sehingga kapasitas sistem akan bertambah secara otomatis mengikuti beban
+	
+
+2.  Studi Kelayakan 
+Studi kelayakan merupakan penelitian mendalam terhadap suatu ide bisnis untuk menentukan layak atau tidaknya ide tersebut direalisasikan. Suatu ide bisnis dikatakan layak apabila hasil kajian menunjukkan bahwa pemilik bisnis akan mendapatkan manfaat finansial (keuntungan) ketika ide bisnis tersebut dijalankan. Untuk menghasilkan kesimpulan yang akurat, suatu ide bisnis harus dikaji secara komprehensif dari berbagai aspek penentu keberhasilan.
+
+
+5.2.1. Aspek Pasar dan Pemasaran
+Aspek pasar dan pemasaran bertujuan untuk mengkaji potensi penjualan produk atau jasa yang direncanakan, menganalisis tingkat persaingan yang ada di pasar, serta merumuskan strategi pemasaran yang tepat untuk mencapai target penjualan yang telah ditetapkan. Tanpa pemahaman yang baik tentang pasar, suatu bisnis berisiko tinggi mengalami kegagalan karena produk yang dihasilkan tidak sesuai dengan kebutuhan konsumen.
+
+
+1. Potensi Pasar
+Berdasarkan data yang dihimpun oleh Katadata Insight Center (2022), sekitar 70 persen dari total pengeluaran bulanan mahasiswa dialokasikan untuk kebutuhan makanan dan minuman. Data ini menunjukkan bahwa mahasiswa merupakan segmen pasar yang sangat potensial untuk platform yang menawarkan makanan dengan harga terjangkau seperti SaveEat. Di Kota Balikpapan sendiri, jumlah mahasiswa mencapai ribuan orang, dengan Institut Teknologi Kalimantan (ITK) sebagai salah satu perguruan tinggi terbesar di wilayah tersebut. Selain itu, terdapat ratusan UMKM kuliner yang beroperasi secara aktif di sekitar kampus ITK, mulai dari warung makan sederhana, kafe, hingga restoran. Sebagian besar dari UMKM ini berpotensi mengalami kelebihan stok atau makanan yang tidak habis terjual pada akhir jam operasional. Kondisi inilah yang menciptakan peluang besar bagi SaveEat untuk hadir sebagai penghubung antara UMKM kuliner dan mahasiswa yang membutuhkan makanan hemat.
+
+
+Untuk memudahkan pembaca memahami parameter pasar yang menjadi target SaveEat pada skala mikro, berikut disajikan tabel yang merangkum potensi pasar berdasarkan hasil survei dan observasi tim.
+
+
+Parameter Potensi Pasar
+	Keterangan
+	Jumlah mahasiswa di Balikpapan
+	Ribuan orang dengan konsentrasi tertinggi di Institut Teknologi Kalimantan (ITK)
+	Jumlah UMKM kuliner potensial
+	Ratusan usaha yang meliputi warung makan, kafe, restoran, dan usaha kuliner rumahan
+	Target awal merchant mitra
+	10 UMKM yang berada di radius maksimal 3 kilometer dari kampus ITK
+	Target transaksi per bulan (skala mikro)
+	900 Mystery Bag atau setara dengan 30 transaksi per hari
+	Rata-rata harga jual per Mystery Bag
+	Rp20.000, yang merupakan diskon 50 hingga 70 persen dari harga normal makanan
+	
+
+2. Analisis Persaingan
+Analisis persaingan dilakukan untuk memahami posisi SaveEat di antara para kompetitor yang sudah lebih dulu ada di pasar. Di Kota Balikpapan, platform digital yang secara spesifik menangani penjualan makanan surplus (food surplus) masih tergolong sangat minim bahkan hampir tidak ada. Namun demikian, SaveEat tetap menghadapi persaingan tidak langsung dari kebiasaan masyarakat, khususnya mahasiswa, yang lebih memilih warung makan murah seperti burjo (burjo) atau warteg (warung tegal) sebagai solusi makanan hemat sehari-hari. Kebiasaan ini menjadi tantangan tersendiri bagi SaveEat dalam membangun perubahan perilaku konsumen agar mulai beralih ke platform digital. Meskipun demikian, SaveEat memiliki beberapa keunggulan kompetitif yang dapat dimanfaatkan untuk menarik konsumen. Keunggulan tersebut antara lain sistem digitalisasi stok makanan yang memungkinkan pengguna memantau ketersediaan makanan secara real-time, harga yang lebih kompetitif dengan rata-rata Rp20.000 per kantong, serta kontribusi nyata terhadap pengurangan limbah makanan (food waste) yang menjadi nilai tambah di mata konsumen generasi Z yang semakin peduli terhadap isu lingkungan.
+Berikut adalah tabel yang merangkum hasil analisis persaingan SaveEat di Kota Balikpapan.
+
+
+Aspek Persaingan
+	Kondisi di Balikpapan
+	Kompetitor langsung (platform food surplus)
+	Sangat minim, hampir tidak ada platform yang secara spesifik menangani makanan surplus di Balikpapan
+	Kompetitor tidak langsung
+	Warung makan murah (burjo dan warteg) yang sudah menjadi kebiasaan konsumsi mahasiswa
+	Keunggulan kompetitif SaveEat
+	Digitalisasi stok real-time, harga terjangkau (Rp20.000 per Mystery Bag), kontribusi mengurangi food waste, dan variasi menu dari berbagai merchant
+	
+
+3. Strategi Pemasaran (Omnichannel Marketing)
+Strategi pemasaran yang diterapkan SaveEat mengadopsi pendekatan omnichannel marketing, yaitu integrasi antara saluran promosi digital dan aktivitas luring secara terpadu. Pendekatan ini dipilih karena target pasar utama SaveEat, yaitu mahasiswa generasi Z, dikenal sangat aktif menggunakan media sosial tetapi juga merespon dengan baik terhadap interaksi langsung di dunia nyata seperti roadshow atau acara kampus. Pada sisi digital, promosi difokuskan melalui Instagram Ads dan TikTok Ads dengan alokasi anggaran sekitar Rp350.000 per bulan. Platform TikTok dipilih sebagai prioritas utama karena konten video pendek di platform ini terbukti paling efektif dalam menjangkau dan mempengaruhi generasi Z. Sementara itu, strategi luring dilakukan melalui kegiatan roadshow ke kampus-kampus untuk memperkenalkan layanan secara langsung kepada target pasar utama, serta pemasangan atribut branding berupa stiker QR Code di setiap lokasi merchant mitra untuk memudahkan pengguna melakukan pemindaian, validasi pengambilan makanan, dan meningkatkan visibilitas SaveEat di titik-titik strategis.
+
+
+Berikut adalah tabel yang merangkum saluran pemasaran yang digunakan beserta alokasi anggaran per bulan untuk skala mikro.
+
+
+Saluran
+	Aktivitas
+	Anggaran per Bulan (Skala Mikro)
+	Digital (prioritas utama)
+	Instagram Ads dan TikTok Ads untuk membangun brand awareness dan menjangkau mahasiswa
+	Rp350.000
+	Luring
+	Roadshow ke kampus ITK dan kampus lain di Balikpapan untuk interaksi langsung dengan calon pengguna
+	Rp100.000 (termasuk dalam biaya perjalanan pemasaran)
+	Konten
+	Pembuatan konten visual edukatif yang informatif dan menarik tentang pentingnya mengurangi food waste        
+	Rp50.000
+	
+
+Kesimpulan Aspek Pasar dan Pemasaran
+Berdasarkan seluruh analisis yang telah dilakukan pada sub-bab 5.2.1, dapat disimpulkan bahwa SaveEat memiliki prospek pasar yang baik karena terdapat celah pasar (market gap) yang jelas antara kebutuhan mahasiswa akan makanan terjangkau dan ketersediaan makanan surplus dari UMKM yang belum termanfaatkan. Strategi pemasaran omnichannel yang menggabungkan iklan digital dan aktivitas luring dinilai tepat sasaran untuk menjangkau generasi Z. Keunggulan kompetitif SaveEat yang tidak dimiliki oleh warung makan murah konvensional, seperti digitalisasi stok real-time dan kontribusi terhadap pengurangan food waste, menjadi nilai tambah yang memperkuat posisi SaveEat di pasar. Dengan demikian, aspek pasar dan pemasaran dinyatakan LAYAK.
+
+
+5.2.2. Aspek Teknis dan Operasional
+Aspek teknis dan operasional bertujuan untuk mengkaji secara teknis bagaimana bisnis akan dijalankan sehari-hari, meliputi penentuan lokasi usaha dan layout operasional, ketersediaan teknologi yang digunakan, serta kapasitas produksi (dalam konteks platform digital, kapasitas sistem) yang direncanakan. Aspek ini penting untuk memastikan bahwa bisnis dapat beroperasi secara efisien dan mampu memenuhi permintaan konsumen tanpa mengalami kendala teknis yang berarti.
+1. Lokasi dan Layout
+Penentuan lokasi pusat operasional SaveEat menjadi keputusan strategis jangka panjang yang berpengaruh langsung terhadap efisiensi koordinasi dengan merchant dan kemudahan akses bagi konsumen. Berdasarkan hasil analisis yang telah dilakukan, pusat operasional SaveEat direncanakan berada di Kota Balikpapan, dengan pertimbangan utama bahwa lokasi ini dekat dengan target pasar utama, yaitu mahasiswa Institut Teknologi Kalimantan (ITK). Selain itu, Balikpapan juga merupakan salah satu pusat pertumbuhan ekonomi di Kalimantan Timur, sehingga memberikan potensi ekspansi bisnis yang lebih cepat seiring dengan meningkatnya aktivitas ekonomi di wilayah tersebut.
+Untuk merchant mitra, SaveEat akan memprioritaskan UMKM kuliner yang berada di area dengan kepadatan usaha tinggi dan radius maksimal 3 kilometer dari kampus ITK. Pemilihan radius ini didasarkan pada pertimbangan bahwa jarak yang dekat akan memudahkan mahasiswa sebagai konsumen untuk melakukan self-pickup tanpa mengeluarkan biaya transportasi yang besar. Selain itu, kedekatan lokasi juga memungkinkan tim SaveEat untuk melakukan koordinasi, pelatihan, dan pendampingan kepada merchant secara lebih efisien. Sistem pengambilan makanan yang diterapkan adalah self-pickup, yaitu konsumen datang langsung ke lokasi merchant untuk mengambil pesanan mereka. Sistem ini dipilih karena menghilangkan kebutuhan akan armada pengiriman dan gudang penyimpanan, sehingga struktur biaya operasional menjadi jauh lebih efisien dibandingkan model bisnis food delivery konvensional.
+Berikut adalah tabel yang merangkum parameter lokasi operasional SaveEat untuk skala mikro.
+
+
+Parameter
+	Keterangan
+	Pusat operasional
+	Kota Balikpapan, dipilih karena kedekatan dengan target pasar utama (ITK) dan statusnya sebagai pusat pertumbuhan ekonomi di Kalimantan Timur
+	Radius merchant mitra
+	Maksimal 3 kilometer dari kampus ITK untuk memudahkan koordinasi dan self-pickup oleh konsumen
+	Sistem pengambilan makanan
+	Self-pickup oleh konsumen, sehingga tidak memerlukan armada pengiriman dan gudang penyimpanan
+	
+
+2. Teknologi yang Digunakan
+Dalam pengembangan platform digital seperti SaveEat, pemilihan infrastruktur teknologi menjadi faktor penting yang mempengaruhi efisiensi biaya, keandalan sistem, dan kemudahan pengembangan di masa depan. Untuk skala mikro, SaveEat memanfaatkan layanan free tier (gratis) dari berbagai penyedia layanan cloud guna menekan biaya operasional di tahap awal. Pemilihan teknologi ini didasarkan pada rekomendasi dari penelitian Irfansyah, Arief, dan Nugraha (2024) yang menyatakan bahwa penggunaan arsitektur serverless cloud computing lebih efisien dibandingkan investasi server fisik karena sistem hanya membayar sesuai penggunaan dan dapat melakukan auto-scaling saat terjadi lonjakan pengguna.
+Berikut adalah tabel yang merangkum komponen teknologi yang digunakan beserta platform spesifik dan keterangan singkat masing-masing.
+
+
+Komponen Teknologi
+	Platform yang Digunakan
+	Keterangan
+	Frontend (tampilan aplikasi)
+	Next.js
+	Framework React yang memberikan performa cepat, server-side rendering, dan ramah terhadap mesin pencari (SEO friendly)
+	Backend dan Database
+	Supabase (menggunakan free tier)
+	Alternatif open source dari Firebase yang menyediakan database relasional, autentikasi pengguna, dan penyimpanan file secara gratis untuk skala awal
+	Payment Gateway (pembayaran digital)
+	Midtrans
+	Layanan pembayaran digital yang memungkinkan verifikasi pembayaran secara otomatis dengan enkripsi data finansial untuk menjaga keamanan transaksi
+	Infrastruktur
+	Cloud serverless (lingkungan tanpa server fisik)
+	Arsitektur yang memungkinkan aplikasi berjalan tanpa perlu mengelola server, dengan kemampuan auto-scaling (menambah kapasitas secara otomatis saat pengguna meningkat)
+	3. Luas Produksi (Kapasitas Sistem)
+Dalam konteks platform digital seperti SaveEat, istilah "luas produksi" tidak merujuk pada jumlah fisik barang yang diproduksi, melainkan pada kapasitas sistem aplikasi dalam memproses dan mengelola transaksi pengguna secara optimal. Target transaksi yang ditetapkan pada skala mikro adalah 900 Mystery Bag per bulan, yang setara dengan rata-rata 30 transaksi per hari. Angka ini disusun secara realistis berdasarkan hasil perhitungan BEP (akan dijelaskan pada sub-bab aspek keuangan) dan juga mempertimbangkan kapasitas awal dari free tier layanan cloud yang digunakan. Hasil load testing menunjukkan bahwa arsitektur serverless yang digunakan mampu menangani hingga 300 pengguna secara simultan dengan tingkat kesalahan yang sangat rendah (di bawah 1 persen). Hal ini berarti sistem SaveEat masih memiliki ruang yang cukup luas untuk menampung pertumbuhan pengguna di masa depan tanpa perlu melakukan perubahan infrastruktur yang kompleks.
+
+
+Berikut adalah tabel yang merangkum parameter kapasitas sistem SaveEat untuk skala mikro.
+
+
+Parameter Kapasitas
+	Target ( Skala Mikro )
+	Target transaksi per bulan
+	900 Mystery Bag
+	Target transaksi per hari
+	Rata-rata 30 transaksi (dengan asumsi 30 hari operasional per bulan)
+	Load testing maksimal
+	300 pengguna secara simultan (bersamaan)
+	Tingkat kesalahan sistem
+	Di bawah 1 persen dari total transaksi
+	
+
+4. Kesiapan Teknologi
+Kesiapan teknologi tidak hanya diukur dari spesifikasi perangkat keras atau perangkat lunak yang digunakan, tetapi juga dari metodologi pengembangan dan hasil pengujian yang telah dilakukan. SaveEat menggunakan metode pengembangan Agile, yaitu pendekatan pengembangan perangkat lunak yang memungkinkan tim melakukan iterasi (siklus perbaikan) secara cepat berdasarkan umpan balik dari pengguna. Metode ini berbeda dengan metode waterfall tradisional yang cenderung kaku dan tidak fleksibel terhadap perubahan. Hasil evaluasi terhadap platform yang dikembangkan menunjukkan tingkat keberhasilan fitur mencapai 100 persen, artinya seluruh fitur yang direncanakan (pendaftaran pengguna, unggah Mystery Bag, pemrosesan pembayaran, notifikasi realtime, dan validasi QR Code) dapat berfungsi dengan baik. Skor kepuasan pengguna yang diperoleh dari uji coba terbatas mencapai 4,6 dari skala 5, yang termasuk dalam kategori sangat baik.
+
+
+Kesimpulan Aspek Teknis dan Operasional
+Berdasarkan seluruh analisis yang telah dilakukan pada sub-bab 5.2.2, dapat disimpulkan bahwa SaveEat memiliki kesiapan teknis dan operasional yang kuat. Infrastruktur berbasis cloud (serverless) yang dipilih menawarkan biaya operasional yang rendah (bahkan untuk skala mikro, beberapa layanan dapat menggunakan free tier), skalabilitas yang tinggi sehingga mampu mengakomodasi pertumbuhan pengguna di masa depan, serta tingkat keandalan yang baik dengan tingkat kesalahan di bawah 1 persen. Pemilihan sistem self-pickup juga menghilangkan kebutuhan akan armada pengiriman dan gudang penyimpanan, sehingga struktur biaya menjadi lebih efisien. Dengan demikian, aspek teknis dan operasional dinyatakan LAYAK.
+
+
+5.2.3. Aspek Manajemen
+Aspek manajemen bertujuan untuk mengkaji bagaimana proyek ini akan dikelola, mulai dari struktur organisasi yang digunakan, pembagian tugas dan tanggung jawab (deskripsi jabatan), hingga kebutuhan dan sumber tenaga kerja yang diperlukan. Aspek ini sangat penting karena keberhasilan suatu bisnis tidak hanya ditentukan oleh ide yang bagus atau modal yang cukup, tetapi juga oleh kemampuan tim dalam mengelola dan mengkoordinasikan seluruh sumber daya yang ada.
+
+
+1. Struktur Organisasi (Flat Organization)
+Untuk startup digital seperti SaveEat yang masih berada pada tahap awal, struktur organisasi yang terlalu hierarkis dengan banyak lapisan manajemen justru dapat menghambat kecepatan pengambilan keputusan dan fleksibilitas. Oleh karena itu, SaveEat menerapkan struktur organisasi ramping yang dikenal dengan istilah flat organization (organisasi datar). Dalam struktur ini, seluruh anggota tim melapor langsung kepada Leader atau Project Manager, tanpa ada posisi manajer menengah seperti Head of Technology atau Marketing Manager. Hal ini membuat jalur koordinasi menjadi pendek, sehingga ketika ada masalah atau keputusan penting yang perlu diambil, tim dapat merespon dengan cepat tanpa harus melalui prosedur birokrasi yang berbelit-belit.
+
+
+Berikut adalah diagram alir yang menggambarkan struktur organisasi SaveEat beserta posisi masing-masing anggota tim. Diagram ini menunjukkan bahwa Project Manager berada pada posisi puncak dan seluruh divisi lain berada pada level yang sama di bawahnya, mencerminkan struktur yang ramping dan fleksibel.
+
+
+  
+
+
+
+2. Kebutuhan dan Sumber Tenaga Kerja (Skala Mikro)
+Tim inti SaveEat terdiri dari enam orang mahasiswa Institut Teknologi Kalimantan yang masing-masing memiliki latar belakang pendidikan dan kompetensi yang sesuai dengan peran yang diemban. Keenam anggota tim ini akan mengisi seluruh posisi kunci yang dibutuhkan untuk menjalankan bisnis pada skala mikro, sehingga tidak diperlukan perekrutan tenaga kerja dari luar di tahap awal. Kondisi ini merupakan keunggulan tersendiri karena menghemat biaya operasional (tidak ada beban gaji untuk tim inti), mempermudah koordinasi karena semua anggota berasal dari lingkungan kampus yang sama, serta memperkuat rasa kepemilikan terhadap proyek di antara seluruh tim.
+
+
+Berikut adalah tabel yang merinci posisi-posisi yang dibutuhkan beserta penanggung jawab dari tim inti dan status kepegawaian masing-masing.
+
+
+
+
+Posisi
+	Penanggung Jawab
+	Status
+	Project Manager (Manajer Proyek)
+	Ahmad Daffa Alfattah
+	Tim inti (mahasiswa ITK)
+	Technical / System Development (Pengembangan Sistem)
+	Ariel Itsbat Nurhaq
+	Tim inti (mahasiswa ITK)
+	Marketing / Market Research (Riset Pasar)
+	Leila Lutfia Candrawati
+	Tim inti (mahasiswa ITK)
+	Marketing / Promotion Strategy (Strategi Promosi)
+	Ika Dwi Sabilla
+	Tim inti (mahasiswa ITK)
+	Finance / Budget Planning (Perencanaan Anggaran)
+	Bagas Yoga Pratama Pramudika
+	Tim inti (mahasiswa ITK)
+	Documentation & Administration (Dokumentasi & Administrasi)
+	Amisha Nabila Wiguna
+	Tim inti (mahasiswa ITK)
+	Customer Service (Layanan Pelanggan)
+	Semua anggota tim secara bergiliran
+	Tim inti (sistem giliran, tanpa biaya gaji)
+	
+
+3. Sistem Giliran Customer Service (Skala Mikro)
+Salah satu inovasi dalam aspek manajemen SaveEat untuk skala mikro adalah diterapkannya sistem giliran untuk tugas Customer Service. Mengingat volume transaksi pada skala mikro diperkirakan mencapai 900 transaksi per bulan, yang setara dengan sekitar 30 hingga 40 pesan atau pertanyaan dari konsumen per hari, beban ini dinilai masih dapat ditangani oleh satu orang per hari. Oleh karena itu, tim sepakat untuk tidak merekrut tenaga Customer Service khusus, melainkan membagi tugas ini secara merata kepada seluruh anggota tim.
+Sistem giliran yang diterapkan adalah setiap anggota tim bertugas sebagai Customer Service selama satu hari dalam seminggu. Pada hari yang bersangkutan, anggota tersebut bertanggung jawab untuk menjawab pertanyaan konsumen melalui chat (misalnya tentang cara pemesanan, metode pembayaran, lokasi merchant, atau informasi mengenai Mystery Bag) serta menerima laporan komplain atau dispute (misalnya makanan yang tidak sesuai atau pesanan yang batal) untuk kemudian diteruskan ke tim terkait. Berikut adalah tabel jadwal giliran Customer Service SaveEat untuk skala mikro.
+
+
+Hari
+	Anggota yang Bertugas
+	Senin
+	Ahmad Daffa Alfattah (Project Manager)
+	Selasa
+	Ariel Itsbat Nurhaq (Technical)
+	Rabu
+	Leila Lutfia Candrawati (Marketing Research)
+	Kamis
+	Ika Dwi Sabilla (Promotion Strategy)
+	Jumat
+	Bagas Yoga Pratama Pramudika (Finance)
+	Sabtu
+	Amisha Nabila Wiguna (Documentation)
+	Minggu
+	Libur (atau dijadwalkan jaga bergantian jika diperlukan)
+	Kesimpulan Aspek Manajemen
+
+
+Berdasarkan seluruh analisis yang telah dilakukan pada sub-bab 5.2.3, dapat disimpulkan bahwa SaveEat memiliki fondasi manajerial yang kuat. Struktur organisasi yang ramping (flat organization) dengan jalur koordinasi langsung kepada Project Manager dinilai paling sesuai untuk startup tahap awal karena mendukung kecepatan pengambilan keputusan dan efisiensi biaya. Seluruh posisi kunci yang dibutuhkan untuk skala mikro dapat diisi oleh enam anggota tim inti tanpa perlu merekrut tenaga tambahan dari luar. Sistem giliran Customer Service yang diterapkan juga merupakan solusi kreatif untuk menekan biaya operasional sambil tetap memastikan layanan pelanggan berjalan dengan baik. Dengan demikian, aspek manajemen dinyatakan LAYAK.
+
+
+5.2.4. Aspek Hukum
+Aspek hukum bertujuan untuk mengkaji legalitas bisnis mulai dari identifikasi peluang usaha hingga kegiatan operasional sehari-hari. Aspek ini mencakup kesesuaian bisnis dengan peraturan perundang-undangan yang berlaku, legalitas usaha, serta perizinan yang diperlukan. Tanpa kepastian hukum, suatu bisnis dapat menghadapi risiko serius di kemudian hari, seperti sanksi administratif, pencabutan izin, bahkan tuntutan pidana.
+
+
+1. Kesesuaian dengan Hukum yang Berlaku
+SaveEat sebagai platform marketplace digital yang bergerak di bidang distribusi makanan surplus merupakan bentuk usaha yang sesuai dengan ketentuan hukum dan peraturan yang berlaku di Indonesia. Pertama, dari sisi status usaha, SaveEat dapat dikategorikan sebagai Usaha Mikro, Kecil, dan Menengah (UMKM) berbasis teknologi digital, sebagaimana diatur dalam Undang-Undang Nomor 20 Tahun 2008 tentang Usaha Mikro, Kecil, dan Menengah serta Peraturan Pemerintah Nomor 7 Tahun 2021 tentang Kemudahan, Perlindungan, dan Pemberdayaan Koperasi dan UMKM. Kedua, dari sisi transaksi elektronik, platform SaveEat sejalan dengan Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (ITE) yang telah diperbarui melalui Undang-Undang Nomor 19 Tahun 2016. Ketiga, dari aspek keamanan pangan, bisnis ini memperhatikan ketentuan dalam Undang-Undang Nomor 18 Tahun 2012 tentang Pangan, yang menekankan bahwa makanan yang diperjualbelikan harus aman, layak konsumsi, dan tidak membahayakan kesehatan. Keempat, dari sisi lingkungan, konsep bisnis SaveEat yang berfokus pada pengurangan limbah makanan (food waste) sejalan dengan kebijakan pemerintah dalam menjaga kelestarian lingkungan serta mendukung program Sustainable Development Goals (SDGs), khususnya pada poin konsumsi dan produksi yang bertanggung jawab (SDG 12).
+
+
+Berikut adalah tabel yang merangkum kesesuaian SaveEat dengan berbagai regulasi yang berlaku di Indonesia.
+
+
+Regulasi
+	Kesesuaian SaveEat
+	Undang-Undang Nomor 20 Tahun 2008 tentang UMKM
+	Sesuai, SaveEat didirikan sebagai usaha berbasis UMKM oleh mahasiswa
+	Peraturan Pemerintah Nomor 7 Tahun 2021 tentang Kemudahan UMKM
+	Sesuai, Platform ini mendukung digitalisasi dan pemberdayaan UMKM kuliner lokal
+	Undang-Undang Nomor 11 Tahun 2008 jo. Undang-Undang Nomor 19 Tahun 2016 tentang ITE
+	Sesuai, Seluruh transaksi jual beli dilakukan secara elektronik melalui platform digital
+	Undang-Undang Nomor 18 Tahun 2012 tentang Pangan
+	Sesuai, SaveEat mewajibkan merchant mitra untuk memenuhi standar kebersihan dan kelayakan konsumsi
+	Sustainable Development Goals (SDGs)
+	Sesuai, Platform ini berkontribusi pada pengurangan food waste (SDG 12) dan penurunan emisi gas rumah kaca (SDG 13)
+	
+
+
+
+2. Perizinan yang Diperlukan (Skala Mikro)
+Untuk menjalankan bisnis SaveEat secara legal, diperlukan beberapa perizinan dasar yang saat ini dapat diurus secara online melalui sistem Online Single Submission (OSS) berbasis risiko. Berdasarkan klasifikasi risiko yang ditetapkan oleh OSS, SaveEat tergolong sebagai usaha dengan tingkat risiko rendah hingga menengah. Hal ini berarti proses pengurusan izin relatif mudah, cepat, dan tidak memerlukan persyaratan yang rumit. Berikut adalah tabel yang merinci jenis-jenis perizinan yang diperlukan beserta prosedur dan estimasi biaya pengurusannya.
+
+
+Jenis Izin
+	Prosedur Pengurusan
+	Estimasi Biaya
+	NIB (Nomor Induk Berusaha)
+	Didaftarkan secara online melalui sistem OSS (Online Single Submission) yang disediakan oleh Pemerintah Indonesia
+	Rp0 (gratis)
+	NPWP (Nomor Pokok Wajib Pajak)
+	Didaftarkan secara online melalui situs web Direktorat Jenderal Pajak (DJPN) untuk keperluan perpajakan usaha
+	Rp0 (gratis)
+
+
+	PSE (Penyelenggara Sistem Elektronik)
+	Didaftarkan secara online ke Kementerian Komunikasi dan Informatika (Kominfo) sebagai platform digital yang memproses transaksi elektronik
+	Rp0 (gratis)
+
+
+	
+
+
+
+Kesimpulan Aspek Hukum
+Berdasarkan seluruh analisis yang telah dilakukan pada sub-bab 5.2.4, dapat disimpulkan bahwa SaveEat telah memenuhi aspek hukum yang dipersyaratkan untuk menjalankan usaha. Bisnis ini sesuai dengan Undang-Undang ITE, Undang-Undang Pangan, Undang-Undang UMKM, serta mendukung program SDGs. Dari sisi perizinan, karena SaveEat tergolong usaha dengan tingkat risiko rendah hingga menengah, seluruh proses pengurusan izin dapat dilakukan secara online melalui sistem OSS dengan prosedur sederhana dan biaya yang terjangkau (bahkan gratis untuk NIB, NPWP, dan PSE). Dengan demikian, aspek hukum dinyatakan LAYAK.
+
+
+5.2.5. Aspek Keuangan (Skala Mikro)
+Aspek keuangan merupakan salah satu komponen terpenting dalam studi kelayakan bisnis karena menentukan apakah suatu usaha layak atau tidak layak dijalankan dari sisi finansial. Aspek ini mengkaji kebutuhan dana investasi (yang meliputi aktiva tetap dan modal kerja), sumber dana untuk membelanjai kebutuhan investasi tersebut, prediksi aliran kas (cash flow), serta kriteria investasi seperti Net Present Value (NPV), Internal Rate of Return (IRR), Payback Period, dan Break Even Point (BEP). Tim Finance yang dipimpin oleh Bagas Yoga Pratama Pramudika bertanggung jawab menyusun perhitungan-perhitungan ini dengan mengacu pada harga pasar riil di Balikpapan tahun 2025-2026.
+Perlu ditekankan bahwa seluruh perhitungan pada skala mikro ini didasarkan pada asumsi bahwa bisnis telah beroperasi secara penuh selama 12 bulan dengan volume transaksi yang stabil, yaitu 900 transaksi per bulan. Seluruh anggota tim inti (enam orang) belum mengambil gaji (sweat equity) sebagai bentuk komitmen bersama di tahap awal pengembangan bisnis. Tugas Customer Service ditangani oleh seluruh anggota tim secara bergiliran sehingga tidak terdapat biaya gaji untuk posisi tersebut. Dengan kata lain, seluruh laba yang dihasilkan pada tahun pertama akan diinvestasikan kembali (reinvest) untuk pengembangan bisnis atau disimpan sebagai dana cadangan.
+
+
+1. Kebutuhan Investasi Awal
+Investasi awal adalah jumlah dana yang diperlukan untuk memulai suatu bisnis sebelum operasional menghasilkan pendapatan. Untuk bisnis berbasis digital seperti SaveEat, investasi awal tidak sebesar bisnis konvensional karena tidak memerlukan gedung, mesin produksi, atau stok barang dagang. Komponen terbesar dalam investasi awal SaveEat adalah peralatan (laptop, smartphone, dan pendukungnya) yang akan digunakan oleh tim untuk mengembangkan dan mengoperasikan platform. Berikut adalah tabel yang merinci komponen investasi awal SaveEat untuk skala mikro, yang totalnya mencapai Rp10.552.500.
+Perlengakapan yang Diperlukan
+  
+
+Bahan Habis Pakai ( Per Bulan )
+  
+
+Perjalanan
+  
+
+Biaya Lain lain 
+  
+
+
+
+Total Investasi Awal
+  
+
+
+
+Komponen
+	Jumlah (Rp)
+	Peralatan (laptop, smartphone, printer label, router, hard disk eksternal)
+	Rp9.150.000
+	Bahan Habis Pakai untuk 3 bulan pertama (server, database, paper bag, stiker QR Code, dll)
+	Rp1.357.500
+	Perjalanan (akuisisi merchant, koordinasi, promosi kampus) selama 3 bulan pertama
+	Rp1.050.000
+	Operasional Lain (iklan digital, produksi konten, komunikasi, konsumsi rapat, maintenance, dll)
+	Rp600.000
+	Total Investasi Awal
+	Rp10.552.500
+	
+
+2. Kebutuhan Modal Kerja per Bulan
+Modal kerja adalah dana yang diperlukan untuk membiayai operasional sehari-hari setelah bisnis berjalan. Berbeda dengan investasi awal yang bersifat sekali keluar di awal, modal kerja bersifat berulang setiap bulan. Untuk skala mikro, total modal kerja yang diperlukan per bulan adalah Rp1.596.875. Kebutuhan modal kerja untuk tiga bulan pertama (sebagai dana cadangan sebelum pendapatan benar-benar stabil) adalah sebesar Rp4.790.625 (tiga kali lipat dari modal kerja bulanan). Berikut adalah tabel rincian modal kerja SaveEat untuk skala mikro per bulan.
+
+
+Komponen Biaya
+	Nilai per Bulan (Rp)
+	Bahan Habis Pakai (kertas, tinta, paper bag, stiker)
+	Rp452.500
+	Perjalanan Produksi (koordinasi dengan merchant aktif)
+	Rp250.000
+	Perjalanan Pemasaran (promosi ke kampus dan lokasi lain)
+	Rp100.000
+	Instagram Ads (iklan berbayar di Instagram)
+	Rp200.000
+	TikTok Ads (iklan berbayar di TikTok)
+	Rp150.000
+	Produksi Konten (pembuatan video dan desain grafis)
+	Rp50.000
+	Komunikasi & Koordinasi (pulsa, paket data)
+	Rp50.000
+	Konsumsi Rapat (biaya makan dan minum saat rapat tim)
+	Rp50.000
+	Maintenance & Bug Fixing (perawatan sistem dan perbaikan error)
+	Rp100.000
+	Penyusutan peralatan (dihitung berdasarkan umur ekonomis peralatan)
+	Rp194.375
+	Total Modal Kerja per Bulan
+	Rp1.596.875
+	
+
+3. Proyeksi Pendapatan (Inflow)
+Sebagaimana telah dijelaskan pada bagian awal laporan, sumber pendapatan utama SaveEat berasal dari komisi sebesar 15 persen dari setiap transaksi Mystery Bag yang berhasil dilakukan melalui platform. Dengan asumsi harga rata-rata Mystery Bag adalah Rp20.000, maka komisi yang diterima SaveEat per transaksi adalah Rp3.000. Untuk skala mikro yang menargetkan 900 transaksi per bulan, pendapatan kotor bulanan yang dihasilkan adalah Rp2.700.000. Dalam setahun (12 bulan), total pendapatan yang diperoleh mencapai Rp32.400.000. Berikut adalah tabel yang merangkum proyeksi pendapatan SaveEat untuk skala mikro.
+
+
+Parameter
+	Nilai 
+	Transaksi per bulan
+	900 Mystery Bag
+	Komisi per transaksi (15 persen dari harga Rp20.000)
+	Rp3.000
+	Pendapatan per bulan
+	Rp2.700.000
+	Pendapatan per tahun (12 bulan)
+	Rp32.400.000
+	
+
+4. Proyeksi Laba-Rugi Tahun Pertama
+Proyeksi laba rugi menyajikan ringkasan pendapatan dan biaya selama periode tertentu (dalam hal ini satu tahun). Dari total pendapatan tahunan sebesar Rp32.400.000, dikurangi dengan biaya variabel dan biaya tetap, menghasilkan laba bersih tahunan sebesar Rp10.016.400. Return on Investment (ROI) yang diperoleh adalah 95 persen, artinya dalam satu tahun pertama, dana yang diinvestasikan sebesar Rp10.552.500 hampir kembali seluruhnya (kembali 95 persen) dan ditambah dengan keuntungan. Berikut adalah tabel proyeksi laba rugi SaveEat untuk tahun pertama operasional.
+
+
+Komponen
+	Jumlah (Rp)
+	Pendapatan Tahunan (900 transaksi x Rp3.000 x 12 bulan)
+	Rp32.400.000
+	Biaya Variabel Tahunan (biaya yang berubah sesuai volume transaksi: Rp892 x 900 x 12)
+	(Rp9.633.600)
+	Biaya Tetap Tahunan (biaya yang tidak berubah meskipun volume transaksi berubah: Rp1.062.500 x 12)
+	(Rp12.750.000)
+	Laba Bersih Tahunan
+	Rp10.016.400
+	ROI (Return on Investment)
+	95 %
+	
+
+5. Kriteria Investasi (Studi Kelayakan Keuangan)
+Untuk menilai kelayakan finansial suatu proyek investasi secara lebih komprehensif, digunakan beberapa indikator standar yang telah dipelajari dalam materi studi kelayakan. Net Present Value (NPV) mengukur nilai tambah yang dihasilkan proyek dengan mempertimbangkan nilai waktu uang. Internal Rate of Return (IRR) adalah tingkat diskonto yang membuat NPV sama dengan nol, yang menunjukkan efisiensi proyek. Payback Period mengukur waktu yang dibutuhkan untuk mengembalikan investasi awal. Break Even Point (BEP) mengukur volume transaksi minimum agar perusahaan tidak rugi (impas). Revenue Cost Ratio (R/C Ratio) mengukur perbandingan antara pendapatan dan biaya.
+Berdasarkan perhitungan yang telah dilakukan oleh tim finance, seluruh indikator kelayakan finansial untuk skala mikro menunjukkan hasil yang positif dan memenuhi kriteria kelayakan. NPV bernilai positif (Rp9.842.500), IRR berada di atas 70 persen (jauh di atas tingkat diskonto 10 persen yang biasa digunakan sebagai acuan), Payback Period adalah 8 bulan (kurang dari satu tahun), BEP tercapai pada 528 transaksi per bulan (jauh di bawah target 900 transaksi per bulan), dan R/C Ratio adalah 1,38 (artinya setiap satu rupiah biaya yang dikeluarkan menghasilkan 1,38 rupiah pendapatan). Berikut adalah tabel yang merangkum kelima indikator kelayakan keuangan tersebut.
+
+
+Indikator
+	Hasil
+	Kriteria Kelayakan
+	Keterangan
+	NPV (Net Present Value) dengan tingkat diskonto 10 persen
+	Rp9.842.500
+	NPV harus lebih besar dari 0 (positif)
+	LAYAK
+	IRR (Internal Rate of Return)
+	Lebih dari 70 persen
+	IRR harus lebih besar dari tingkat diskonto (biasanya >10 persen)
+	LAYAK
+	Payback Period
+	8 bulan
+	Kurang dari 12 bulan (1 tahun)
+	LAYAK
+	BEP (Break Even Point)
+	528 transaksi per bulan
+	Lebih rendah dari target (900 transaksi per bulan)
+	LAYAK
+	R/C Ratio (Revenue Cost Ratio)
+	1,38
+	Lebih besar dari 1
+	LAYAK
+	
+
+6. Sumber Dana
+Investasi awal sebesar Rp10.552.500 akan dipenuhi dari tiga sumber utama. Modal sendiri sebesar Rp5.000.000 (47,4 persen) bersumber dari kontribusi masing-masing anggota tim. Dengan enam anggota tim, rata-rata kontribusi per orang adalah sekitar Rp833.000. Hibah kampus sebesar Rp4.000.000 (37,9 persen) direncanakan akan diajukan melalui program P2MW (Program Pembinaan Mahasiswa Wirausaha) atau PIMNAS (Pekan Ilmiah Mahasiswa Nasional). Sponsor atau investor lokal sebesar Rp1.552.500 (14,7 persen) akan dihimpun dari UMKM mitra atau pelaku usaha lokal di Balikpapan yang ingin mendukung pengembangan ekosistem digital di kota tersebut. Perlu dicatat bahwa dalam struktur modal ini tidak ada utang bank, sehingga risiko keuangan yang timbul dari kewajiban membayar bunga pinjaman dapat dihindari (bebas utang). Berikut adalah tabel yang merinci sumber dana untuk investasi awal SaveEat.
+  
+
+
+
+
+
+Sumber Dana
+	Jumlah (Rp)
+	Persentase
+	Modal Sendiri (dari 6 anggota tim, rata-rata Rp833.000 per orang)
+	Rp5.000.000
+	47,4 %
+	Hibah / Program Kampus (P2MW atau PIMNAS)
+	Rp4.000.000
+	37,9 %
+	Sponsor / Investor Lokal (dari UMKM mitra atau pengusaha Balikpapan)
+	Rp1.552.500
+	14,7 %
+	Total
+	Rp10.552.500        
+	100 %
+	
+
+Kesimpulan Aspek Keuangan
+Berdasarkan seluruh analisis yang telah dilakukan pada sub-bab 5.2.5, dapat disimpulkan bahwa SaveEat dengan skala mikro memiliki prospek keuangan yang sehat dan layak untuk dijalankan. Seluruh indikator kelayakan finansial (NPV positif, IRR >70 persen, Payback Period 8 bulan, BEP 528 transaksi per bulan, R/C Ratio 1,38) memenuhi kriteria kelayakan yang telah ditetapkan dalam teori studi kelayakan. Investasi awal yang dibutuhkan relatif kecil (Rp10.552.500) dan dapat dipenuhi dari modal sendiri, hibah kampus, serta sponsor lokal tanpa perlu berutang kepada bank. Laba bersih tahunan sebesar Rp10.016.400 dengan ROI 95 persen menunjukkan bahwa bisnis ini menguntungkan dan layak untuk direalisasikan. Dengan demikian, aspek keuangan dinyatakan LAYAK.
+
+
+5.2.6. Aspek Sosial Ekonomi
+Aspek sosial ekonomi bertujuan untuk mengkaji dampak yang akan ditimbulkan oleh suatu usaha atau proyek terhadap masyarakat dan lingkungan sekitarnya. Dalam konteks bisnis modern, sebuah usaha tidak hanya dinilai dari kemampuannya menghasilkan keuntungan finansial, tetapi juga dari kontribusinya terhadap kesejahteraan masyarakat dan pelestarian lingkungan. SaveEat sebagai platform yang mengusung konsep pengurangan limbah makanan (food waste) memiliki potensi dampak sosial ekonomi yang signifikan, baik dari sisi manfaat ekonomi maupun manfaat sosial-lingkungan.
+1. Manfaat Ekonomi
+Dari sisi ekonomi, SaveEat memberikan manfaat kepada empat pihak utama: UMKM mitra, mahasiswa sebagai konsumen, tim pengelola platform, dan pemerintah daerah. Bagi UMKM mitra, kehadiran SaveEat membuka saluran pendapatan tambahan dari makanan surplus yang sebelumnya tidak terjual dan berakhir sebagai limbah. Dengan sistem Mystery Bag, makanan yang tadinya tidak menghasilkan nilai ekonomi kini dapat dijual dengan harga diskon, sehingga mengurangi kerugian operasional merchant. Bagi mahasiswa sebagai konsumen, SaveEat memberikan akses terhadap makanan berkualitas dengan harga yang jauh lebih terjangkau dibandingkan harga normal. Berdasarkan perbandingan harga, seorang mahasiswa dapat menghemat sekitar Rp10.000 hingga Rp15.000 per porsi dibandingkan membeli makanan yang sama di waktu normal. Bagi tim SaveEat, proyek ini menghasilkan laba bersih tahunan sebesar Rp10.016.400 pada skala mikro, yang dapat diinvestasikan kembali untuk pengembangan bisnis. Bagi pemerintah daerah, khususnya Pemerintah Kota Balikpapan, SaveEat mendukung program digitalisasi UMKM yang sedang digalakkan serta membantu upaya pengurangan volume sampah makanan yang berakhir di Tempat Pembuangan Akhir (TPA). Berikut adalah tabel yang merangkum manfaat ekonomi yang diberikan SaveEat kepada berbagai pihak.
+
+
+Pihak
+	Manfaat Ekonomi
+	UMKM Mitra (10 merchant)
+	Mendapatkan pendapatan tambahan dari makanan surplus yang sebelumnya tidak laku terjual dan terbuang sia-sia
+	Mahasiswa / Konsumen
+	Mendapatkan akses terhadap makanan berkualitas dengan harga hemat, menghemat Rp10.000 hingga Rp15.000 per porsi dibandingkan harga normal
+	Tim SaveEat (6 orang)
+	Memperoleh laba bersih tahunan sebesar Rp10.016.400 (skala mikro) yang dapat digunakan untuk pengembangan bisnis
+	Pemerintah Daerah (Kota Balikpapan)
+	Mendukung program digitalisasi UMKM dan mengurangi beban pengelolaan sampah makanan di Tempat Pembuangan Akhir (TPA)
+	
+
+2. Manfaat Sosial dan Lingkungan
+Dari sisi sosial dan lingkungan, kontribusi utama SaveEat adalah pada upaya pengurangan limbah makanan (food waste) . Berdasarkan data dari Food and Agriculture Organization (FAO) tahun 2019, sekitar sepertiga dari total makanan yang diproduksi di seluruh dunia terbuang setiap tahunnya. Limbah makanan ini tidak hanya merugikan secara ekonomi, tetapi juga berdampak negatif terhadap lingkungan karena proses dekomposisi (pembusukan) makanan di TPA menghasilkan gas metana yang merupakan salah satu gas rumah kaca penyebab perubahan iklim. Dengan memanfaatkan makanan surplus yang masih layak konsumsi, SaveEat membantu mengurangi volume sampah organik yang masuk ke TPA. Selain itu, platform ini juga mendorong terbentuknya pola konsumsi yang lebih bertanggung jawab di masyarakat, sesuai dengan prinsip ekonomi sirkular (mengurangi, menggunakan kembali, dan mendaur ulang sumber daya). SaveEat juga berkontribusi dalam pemberdayaan UMKM lokal dengan membantu mereka mengadopsi teknologi digital yang mungkin sebelumnya belum terjangkau.
+
+
+Berikut adalah tabel yang merangkum manfaat sosial dan lingkungan yang dihasilkan oleh platform SaveEat.
+
+
+Aspek Manfaat
+	Kontribusi SaveEat
+	Pengurangan Food Waste
+	Mengurangi volume limbah makanan yang berakhir di Tempat Pembuangan Akhir (TPA) dengan memanfaatkan makanan surplus yang masih layak konsumsi
+	Dampak Lingkungan
+	Menurunkan emisi gas rumah kaca (terutama gas metana) yang dihasilkan dari proses dekomposisi limbah makanan di TPA
+	Kesadaran Konsumsi
+	Mendorong mahasiswa dan masyarakat untuk mengadopsi pola konsumsi yang lebih bertanggung jawab dan tidak berlebihan
+	Pemberdayaan UMKM
+	Membantu UMKM kuliner lokal di Balikpapan untuk mengadopsi dan memanfaatkan teknologi digital dalam operasional bisnis mereka
+	Ekonomi Sirkular
+	Menerapkan prinsip reduce (mengurangi limbah) dan reuse (menggunakan kembali) pada makanan surplus yang masih memiliki nilai guna
+	
+
+Kesimpulan Aspek Sosial Ekonomi
+Berdasarkan seluruh analisis yang telah dilakukan pada sub-bab 5.2.6, dapat disimpulkan bahwa SaveEat memberikan dampak positif yang signifikan baik dari sisi ekonomi maupun sosial-lingkungan. Dari sisi ekonomi, bisnis ini menguntungkan bagi UMKM mitra (pendapatan tambahan), mahasiswa (hemat pengeluaran), tim pengelola (laba usaha), dan pemerintah daerah (mendukung program digitalisasi dan pengurangan sampah). Dari sisi sosial-lingkungan, SaveEat berkontribusi nyata dalam upaya pengurangan food waste yang menjadi masalah global, menurunkan emisi gas rumah kaca, mendorong pola konsumsi yang bertanggung jawab, serta memberdayakan UMKM lokal. Dengan demikian, aspek sosial ekonomi dinyatakan LAYAK.
+3.  Kesimpulan Studi Kelayakan
+Setelah menganalisis seluruh enam aspek yang menjadi penentu keberhasilan suatu ide bisnis (Aspek Pasar dan Pemasaran, Aspek Teknis dan Operasional, Aspek Manajemen, Aspek Hukum, Aspek Keuangan, dan Aspek Sosial Ekonomi), dapat ditarik kesimpulan bahwa SaveEat dengan skala mikro dinyatakan LAYAK untuk dijalankan dan dikembangkan.
+Setiap aspek yang dianalisis menunjukkan hasil yang positif. Aspek pasar dan pemasaran menunjukkan adanya celah pasar yang jelas antara kebutuhan mahasiswa akan makanan terjangkau dengan ketersediaan makanan surplus dari UMKM, serta strategi pemasaran omnichannel yang tepat sasaran untuk generasi Z. Aspek teknis dan operasional menunjukkan bahwa infrastruktur berbasis cloud yang dipilih menawarkan biaya operasional rendah (dengan free tier untuk skala awal), skalabilitas tinggi, dan tingkat keandalan yang baik. Aspek manajemen menunjukkan bahwa tim inti yang terdiri dari enam orang dengan pembagian peran yang jelas, struktur organisasi yang ramping, serta sistem giliran Customer Service yang efisien sudah cukup untuk menjalankan bisnis pada skala mikro. Aspek hukum menunjukkan bahwa SaveEat sesuai dengan seluruh regulasi yang berlaku (UU ITE, UU Pangan, UU UMKM, dan SDGs) serta perizinan dapat diurus secara mudah dan gratis melalui sistem OSS. Aspek keuangan menunjukkan bahwa seluruh indikator kelayakan finansial (NPV positif, IRR >70 persen, Payback Period 8 bulan, BEP 528 transaksi per bulan, R/C Ratio 1,38) memenuhi kriteria kelayakan, dengan laba bersih tahunan sebesar Rp10.016.400 dan ROI 95 persen. Aspek sosial ekonomi menunjukkan bahwa SaveEat memberikan manfaat ekonomi bagi UMKM, mahasiswa, tim, dan pemerintah daerah, sekaligus memberikan kontribusi positif terhadap pengurangan limbah makanan dan pelestarian lingkungan.
+Untuk memudahkan pembaca memahami secara ringkas hasil studi kelayakan dari keenam aspek yang telah dianalisis, berikut disajikan tabel ringkasan.
+
+
+Aspek yang Dianalisis
+	Hasil
+	Kesimpulan
+	Pasar dan Pemasaran
+	Celah pasar jelas antara kebutuhan mahasiswa dan ketersediaan makanan surplus; strategi omnichannel tepat sasaran untuk generasi Z
+	LAYAK
+	Teknis dan Operasional
+	Infrastruktur cloud (serverless) dengan free tier; biaya rendah; skalabilitas tinggi; sistem self-pickup tanpa biaya logistik
+	LAYAK
+	Manajemen
+	Tim 6 orang dari ITK; pembagian peran jelas; struktur organisasi ramping; sistem giliran CS tanpa biaya gaji
+	LAYAK
+	Hukum
+	Sesuai dengan UU ITE, UU Pangan, UU UMKM, dan SDGs; perizinan (NIB, PSE, NPWP) gratis dan mudah diurus via OSS
+	LAYAK
+	Keuangan
+	NPV positif (Rp9.842.500); IRR >70%; Payback Period 8 bulan; BEP 528 transaksi/bulan; R/C Ratio 1,38; laba bersih tahunan Rp10.016.400; ROI 95%
+	LAYAK
+	Sosial Ekonomi
+	Memberikan manfaat ekonomi bagi UMKM, mahasiswa, tim, dan pemerintah daerah; berkontribusi mengurangi food waste dan emisi gas rumah kaca
+	LAYAK
+	
+
+Berdasarkan kesimpulan di atas, terdapat beberapa rekomendasi yang dapat diberikan untuk memastikan keberhasilan implementasi SaveEat. Pertama, tim disarankan untuk memulai dengan skala mikro terlebih dahulu sebagai proof of concept (pembuktian konsep) sebelum berekspansi ke skala makro. Kedua, fokus onboarding merchant pada radius maksimal 3 kilometer dari kampus ITK untuk memudahkan koordinasi dan self-pickup oleh mahasiswa. Ketiga, manfaatkan free tier layanan digital seperti Supabase dan Vercel untuk menghemat biaya operasional di tahap awal. Keempat, ajukan hibah P2MW atau PIMNAS sebagai sumber pendanaan, dengan proposal yang menekankan aspek pengurangan food waste dan pemberdayaan UMKM lokal. Kelima, optimalkan TikTok Ads sebagai saluran pemasaran utama karena platform ini paling efektif dalam menjangkau generasi Z dengan konten video pendek. Keenam, terapkan quality control yang ketat terhadap merchant mitra karena bisnis ini bergerak di bidang pangan yang menyangkut kesehatan konsumen. Ketujuh, jaga cash burn rate (laju pengeluaran kas) tetap rendah dengan tidak mengeluarkan biaya yang tidak perlu di tahap awal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BAB VI 
+IMPLEMENTASI DALAM SOCIOPRENEUR
+1.  Konsep Sociopreneur yang Diusulkan
+2.  Mekanisme Penciptaan Nilai Sosial
+3.  Indikator Dampak Sosial dan Keberlanjutan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BAB VII 
+PENUTUP
+1.  Kesimpulan
+2.  Rekomendasi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DAFTAR PUSTAKA
+
+
+Afriyadi, R., & Putri, S. Y. E. (2025). Penggunaan Aplikasi Layanan Pesan Antar Makanan pada Usaha Mikro Kecil dan Menengah (UMKM) di Terminal Lama Kota Sukabumi. Prosiding SEMNASTERA (Seminar Nasional Teknologi dan Riset Terapan) Politeknik Sukabumi, 29–34.
+
+
+Darmawan, A. J., Susilo, R. F. N., Putri, Y. H., Suryani, N. K., & Heptarizas, A. (2023). Model Bisnis Berkelanjutan dengan Pendekatan Zero Waste untuk Sisa Makanan: Aplikasi Surplus di Bali. SENA: Prosiding Seminar Nasional Manajemen, Desain & Aplikasi Bisnis Teknologi, 6, 294–303.
+
+
+Djuwitaningrum, E. R., & Jati, I. B. W. (2025). Implementasi Payment Gateway Midtrans pada Website E-Commerce Toko Buah dan Sayur. Program Studi Teknik Informatika, Institut Teknologi Indonesia.
+
+
+Fadia, T., Iranto, D., & Zahra, S. F. (2025). Pengaruh Pengetahuan Lingkungan, Kesadaran Lingkungan, dan Penggunaan Media Sosial terhadap Perilaku Konsumsi Berkelanjutan pada Generasi Z di DKI Jakarta. Indonesia Economic Journal, 1(2), 665–670.
+
+
+Food and Agriculture Organization (FAO). (2019). The State of Food and Agriculture: Moving Forward on Food Loss and Waste Reduction. Rome: Food and Agriculture Organization.
+
+
+Irfansyah, M. B., Arief, S. N., & Nugraha, B. S. D. (2024). Desain dan Arsitektur Serverless Cloud Computing pada Aplikasi Penghitung Kalori Makanan Berbasis Mobile Menggunakan Layanan Google Cloud Platform. JATI (Jurnal Mahasiswa Teknik Informatika), 8(4), 6090–6097.
+
+
+Katadata Insight Center. (2022). Perilaku Konsumsi Mahasiswa Indonesia. Diakses dari https://katadata.co.id
+
+
+Pradani, R. F. E., & Safitri, I. N. (2025). Meneropong Penerapan Green Marketing pada UMKM Kuliner Lokal. Journal of Artificial Intelligence and Digital Business (RIGGS), 4(1), 483–488.
+
+
+Putri, A. (2022). Perkembangan Industri Kuliner dan Digitalisasi Layanan Makanan di Indonesia. Jurnal Ekonomi Digital.
+
+
+Ratnasari, K. (2024). Analisis Technology Acceptance Model (TAM) pada Media Sosial Wirausaha Kuliner di Wilayah Jakarta Selatan. Seminar Nasional Pariwisata dan Kewirausahaan (SNPK), 3, 401–412.
+
+
+Ahmad, R. A., & Cahya, S. B. (2024). Strategi Peningkatan Daya Saing di Era Digital Berbasis Analisis SWOT (Studi Kasus pada Startup UFO Burger Bojonegoro). Jurnal Pendidikan Tata Niaga (JPTN), 12(3), 309–315.
+
+
+Mahmud, Astuti, S. D., Usman, Azami, M. R., Alamsyah, M. I. F., & Lestari, A. K. (2025). Literasi Digital Marketing Pada Start Up untuk Mahasiswa dan Calon Mahasiswa di Malaysia. Safari (Jurnal Pengabdian Masyarakat Indonesia), 5(4), 304–320.
+
+
+Republik Indonesia. (2008). Undang-Undang Nomor 20 Tahun 2008 tentang Usaha Mikro, Kecil, dan Menengah.
+
+
+Republik Indonesia. (2021). Peraturan Pemerintah Nomor 7 Tahun 2021 tentang Kemudahan, Perlindungan, dan Pemberdayaan Koperasi dan Usaha Mikro, Kecil, dan Menengah.
+
+
+Yuliani, W., Yuliana, W., & Astuti, D. (2025). Evaluasi Prospek Bisnis Start-Up Digital: Kajian Kualitatif Aspek Pasar, Teknis, dan Manajemen. Journal of Business Economics and Management (JBEM), 1(3), 171–177.
+
+
+Republik Indonesia. (2008). Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik. Lembaran Negara Republik Indonesia Tahun 2008 Nomor 58. Jakarta: Sekretariat Negara.
+
+
+Republik Indonesia. (2008). Undang-Undang Nomor 20 Tahun 2008 tentang Usaha Mikro, Kecil, dan Menengah. Lembaran Negara Republik Indonesia Tahun 2008 Nomor 93. Jakarta: Sekretariat Negara.
+
+
+Republik Indonesia. (2012). Undang-Undang Nomor 18 Tahun 2012 tentang Pangan. Lembaran Negara Republik Indonesia Tahun 2012 Nomor 227. Jakarta: Sekretariat Negara.
+
+
+Republik Indonesia. (2016). Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik. Lembaran Negara Republik Indonesia Tahun 2016 Nomor 251. Jakarta: Sekretariat Negara.
+
+
+Republik Indonesia. (2021). Peraturan Pemerintah Nomor 7 Tahun 2021 tentang Kemudahan, Perlindungan, dan Pemberdayaan Koperasi dan Usaha Mikro, Kecil, dan Menengah. Lembaran Negara Republik Indonesia Tahun 2021 Nomor 17. Jakarta: Sekretariat Negara.
+
+
+Republik Indonesia. (2020). Peraturan Pemerintah Nomor 5 Tahun 2020 tentang Sistem Informasi dan Transaksi Elektronik. Lembaran Negara Republik Indonesia Tahun 2020 Nomor 20. Jakarta: Sekretariat Negara.
+
+
+Republik Indonesia. (2022). Peraturan Menteri Komunikasi dan Informatika Nomor 5 Tahun 2022 tentang Penyelenggaraan Sistem Elektronik Lingkup Privat. Jakarta: Kementerian Kominfo.
+
+
+Kasmir & Jakfar. (2021). Studi Kelayakan Bisnis (Edisi Revisi). Jakarta: Kencana Prenada Media Group.
+
+
+Umar, H. (2021). Studi Kelayakan Bisnis: Teknik Menganalisis Kelayakan Rencana Bisnis Secara Komprehensif (Edisi 6). Jakarta: Gramedia Pustaka Utama.
+
+
+Astuti, S. D., Mahmud, & Usman. (2025). Faktor-Faktor Penentu Pemilihan Lokasi Usaha pada UMKM Kuliner di Kawasan Perkotaan. Jurnal Manajemen dan Kewirausahaan, 27(1), 45-58.
+
+
+Firmansyah, R., & Sidhimantra, L. (2024). Pengembangan Situs Promosi Digital menggunakan Next.js dan Supabase untuk Meningkatkan Visibilitas UMKM. Jurnal Teknik Informatika dan Sistem Informasi, 10(2), 112-125.
+
+
+Low, S. A., Bass, M., Thilmany, D., & Castillo, M. (2021). Local Food Supply Chain Dynamics and Resilience During COVID-19. Applied Economic Perspectives and Policy, 43(1), 86-104.
+
+
+Mankiw, N. G. (2020). Principles of Economics (9th ed.). Boston: Cengage Learning.
+
+
+Purnomo, D., & Kusuma, A. (2023). Analisis Break Even Point pada UMKM Kuliner di Era Digital. Jurnal Ekonomi dan Bisnis Digital, 2(1), 55-68.
+
+
+Rangkuti, F. (2019). Analisis SWOT: Teknik Membedah Kasus Bisnis. Jakarta: Gramedia Pustaka Utama.
+
+
+Selvi, N. (2024). Manajemen Kapasitas Layanan pada Infrastruktur TI untuk Mendukung Pertumbuhan Startup Digital. Jurnal Sistem Informasi dan Teknologi, 6(2), 88-99.
+
+
+Sugiyono. (2021). Metode Penelitian Kuantitatif, Kualitatif, dan R&D. Bandung: Alfabeta.
+
+
+Telambanua, E., Nasution, Z., & Harahap, A. (2023). Pengaruh Strategi Diferensiasi Produk, Digital Marketing dan Inovasi Produk terhadap Keunggulan Bersaing. Remik: Riset dan E-Jurnal Manajemen Informatika Komputer, 7(2), 1144-1155.
+
+
+Zulkifly, & Naviera, T. (2025). Strategi Omnichannel Marketing dalam Meningkatkan Loyalitas Pelanggan pada UMKM. Jurnal Pemasaran Digital dan Bisnis, 3(1), 22-35.
+LAMPIRAN
